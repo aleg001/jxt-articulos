@@ -1,0 +1,23 @@
+---
+title: "La independencia judicial y su importancia para el Estado de derecho en Guatemala"
+author: "Angel Gerardo Medina Hernández"
+date: 2022-03-03
+---
+
+La independencia judicial es una característica importante de los sistemas de justicia a nivel mundial, ya que es la impartición de justicia, emitir resoluciones y sentencias judiciales sin que medie coacción, compadrazgos, sobornos y cualquier conflicto de intereses. Esto abarca a jueces y personal que trabaja en el sistema de justicia y otros poderes u organismos del Estado o funcionarios públicos interesados en algún proceso judicial o en casos de corrupción.
+
+Pero, cuando hablamos de independencia judicial y la importancia que tiene para el Estado de derecho de un país, debemos analizar aspectos como la legitimidad de los jueces, su independencia, la efectividad en la separación de los otros poderes del Estado y el desarrollo de su control frente a la necesidad de exigir responsabilidades a los jueces en función de sus puestos.
+
+Al hablar de la legitimidad de los jueces, Perfecto Andrés Ibáñez expresa que “los jueces tienen legitimidad si ejercen bien la jurisdicción, lo que quiere decir transparencia, motivación en las decisiones, escuchar a los litigantes, fundar sus resoluciones en el resultado de la prueba.” Lo cual nos deja ver claramente que la legitimidad radica en función del “origen del puesto” en virtud que no son electos políticamente si no designados por aspectos técnicos y la calidad del trabajo que desempeñan.
+
+En relación a la independencia, José Manuel Bandrés expone: “la independencia del poder judicial se manifiesta en primer término por la separación de los órganos judiciales de los otros poderes del Estado, y por la atribución en exclusiva a los jueces de las funciones jurisdiccionales.” Se establece claramente la naturaleza de la independencia judicial y su importancia para el Estado de derecho de un país como Guatemala, con altos índices de corrupción e impunidad.
+
+La jueza guatemalteca Erika Aifán Dávila expresa: “la independencia judicial, a la vez que se trata de un derecho absoluto del que no podemos prescindir en su integralidad, es un concepto relativo, porque está integrado en diferentes formas de independencia que pueden ser congruentes entre sí o no. Se puede ser un juez independiente, pero no existir independencia institucional, al enfrentar múltiples riesgos y ataques desde la institucionalidad del país, bien sea proveniente de otros poderes del Estado o del mismo poder judicial.” Sus afirmaciones son sumamente importantes para comprender aspectos internos que suceden e impiden una efectiva independencia judicial en Guatemala y que, en ocasiones, la población desconoce y genera la nula o escasa exigibilidad de un sistema de justicia efectivo e independiente que promueva un legítimo Estado de derecho en el país.
+
+En este sentido abarca la llamada “independencia interna”, la cual refiere a impartir justicia sin que medie coacción, intervención o amenazas recibidas por parte de las demás partes procesales que intervienen en un juicio o de un tercero interesado que intervenga.
+
+Podemos mencionar también la confabulación o coordinación maquiavélica con otras entidades que complementan el sistema de justicia, nos referimos a la Defensa Pública Penal, Procuraduría General de la Nación, Bufetes Populares, el Ministerio Público, Instituto Nacional de Ciencias Forenses y, en ocasiones, hasta la propia Procuraduría de los Derechos Humanos.
+
+Por último, al referirnos al control de los jueces y su responsabilidad inherente al cargo que desempeñan, existen diversas formas de ejercerlo de manera legal. Nos referimos a aspectos penales establecidos en la ley por la naturaleza del cargo que ocupan. Una refiere a las responsabilidades civiles derivadas de las consecuencias de las resoluciones arbitrarias, emitidas en perjuicio de alguien; otra refiere a las sanciones disciplinarias establecidas en las normativas y leyes propias del poder judicial. Por último, ha ido en auge el “control ciudadano”, el cual se ejerce en diversas formas, las más usadas son los medios de comunicación como la televisión y la radio y, más recientemente, en estos tiempos de pandemia, los medios digitales y redes sociales, ya que permiten la libre expresión y el civeractivismo, denunciando hechos de impunidad y corrupción.
+
+Es importante el análisis de los aspectos relativos a la independencia judicial y cómo las malas prácticas en la aplicación de la justicia en Guatemala permiten acostumbrar a la ciudadanía a verlas como algo “normal” y motivan a seguir reproduciendo un sistema judicial que atenta contra el respeto al Estado de derecho de cualquier país.

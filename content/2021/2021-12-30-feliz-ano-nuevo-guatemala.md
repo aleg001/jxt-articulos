@@ -1,0 +1,15 @@
+---
+title: "¿Feliz? Año Nuevo, Guatemala"
+author: "José Daniel González Armas"
+date: 2021-12-30
+---
+
+Otro año más que acaba y la misma expresión se empieza a escuchar de nuevo: “Ufff, ni se sintió el tiempo, ¿verdad?” Sin embargo, esto no es completamente cierto para el país. Nuestra querida Guatemala ha sufrido demasiadas estocadas en los últimos 365 años por parte de las sanguijuelas quienes se alimentan de las heridas de la gran República de Guatemala que ellos mismos crean.
+
+Ataque tras ataque, nuestra República se ha ido debilitando a manos de personajes corruptos dentro del gobierno. Algunas heridas han sido fuente de sufrimiento por más de un año, como la elección de cortes retenida en la “Casa del Pueblo”, como se hace llamar el Congreso de la República. Por otra parte, el Organismo Ejecutivo ha brillado por su ausencia. Falta de gobernabilidad en varias comunidades del país que se ha tratado de resolver por medio de Estados de Emergencia con un exceso de fuerza bruta. La inexplicable pérdida de millones de quetzales y de vacunas en contra del COVID-19, así como los oscuros procesos de licitación en sus diferentes ministerios, donde se resaltan los permisos de minería, compra de medicamentos y carreteras. Por último, pero seguro no menos importante, el Organismo Judicial se ha plagado de señalamientos en contra de magistrados en todos sus niveles por falsedad académica, falta de idoneidad para el puesto y justicia subjetiva. Todo esto conduce a un solo infame crimen, que podría llamarse asesinato republicano. Pues no he visto a ningún Estado sobrevivir a la enfermedad de la corrupción; ¿y uno de sus primeros síntomas? La destitución de fiscales honorables anticorrupción y la institución de la ley del más fuerte en el Sistema de Justicia.
+
+Con gran pesar enumero a las tres columnas de la República y sus fundamentales debilidades tratando de crear una sociedad justa, equitativa y representativa. Y con aún más tristeza me quedo con falta de papel para escribir las demás heridas que los corruptos han creado en el corazón de nuestro país, tanto porque no me alcanzan las palabras, como porque solamente sus malhechores conocen los detalles de sus actos de traición al pueblo guatemalteco.
+
+Incluso en la impotente memoria este año de Guatemala, encuentro consuelo en algunas promesas, la primera es la del poeta Dante Alighieri, que los corruptos y traidores tienen un lugar reservado en el último círculo de su Divina Comedia. Otra es por parte del filósofo Jean-Jacques Rousseau, que una República puede solamente existir bajo una sociedad justa dirigida al bien común.
+
+Pues me gusta pensar que la justicia divina se encargará de aquellos que traicionen a su propio pueblo, pero mientras tanto, es responsabilidad y oportunidad de cada uno de nosotros de estar atentos a cualquier indicio de injusticia, siempre actuando en bien del país, para que podamos detener el sangrado de nuestra querida República que necesita ayuda médica urgente. Feliz Año Nuevo, Guatemala, que Dios te bendiga.

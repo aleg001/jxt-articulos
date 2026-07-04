@@ -1,0 +1,25 @@
+---
+title: "Dicen que se están polarizando ¿Chisme o realidad?"
+author: "Emerson Salguero"
+date: 2025-03-11
+---
+
+Guatemala ha estado marcada históricamente por profundas divisiones. Las generaciones pasadas vivieron décadas definidas por conflictos que fueron mucho más que ideológicos: Ejército vs. guerrilla, comunismo vs. capitalismo, católicos vs. evangélicos, universidades públicas vs. privadas, republicanos vs demócratas. Estas fracturas, muchas veces impulsadas por dinámicas globales como la Guerra Fría, dejaron cicatrices que aún perduran en nuestra joven democracia.
+
+Sin embargo, por un tiempo pareció que las nuevas generaciones no repetirían estos patrones. Nos dividíamos por cosas más triviales: Lady Gaga vs. Katy Perry, Taylor Swift vs. Kayne West, Disney vs. Nickelodeon, reguetón viejo vs. nuevo, Team Selena o Team Hailey, Rojos vs. Cremas, Barça vs. Madrid. Pero algo cambió con las elecciones generales de 2023. Las juventudes comenzaron a participar más en discusiones políticas. Esto, en principio, debería ser motivo de celebración: más jóvenes interesados y preocupados por Guatemala, se ha transformado en un terreno peligroso.
+
+Los debates ya no son sobre gustos, sino sobre ideologías, valores y propuestas que moldean la opinión pública. En las redes sociales y las conversaciones cotidianas proliferan las posturas irreconciliables: “sí a los bloqueos” vs. “no a los bloqueos”, “Estado plurinacional” vs “status quo”, “provida” vs. “proaborto”, “Semilleros” vs. “los demás”. Las diferencias se han vuelto tan personales que, en demasiados casos, terminan siendo destructivas.
+
+Admiro profundamente a los y las jóvenes que han desarrollado convicciones ideológicas claras: liberales, progresistas, republicanos, conservadores, socialdemócratas, libertarios o de derecha. Muchos de ellos han tenido el privilegio de acceder a una formación cívico-política y un pensamiento crítico, ya sea con sus familias, colegios, iglesias, universidades o sociedad civil. Pero no puedo ignorar un patrón alarmante: estamos replicando los mismos errores de la vieja política que tanto criticamos. **Nos estamos polarizando y radicalizando cada vez más.**
+
+La polarización política de acuerdo con McCoy, Rahman y Somer (2018) es el proceso por el cual las opiniones políticas de una sociedad se dividen y se radicalizan, formando dos o más bandos opuestos con posturas rígidas e irreconciliables. La polarización política implica la fragmentación de una sociedad en grupos contrarios que no solo discrepan sobre ideas y políticas, sino que también se perciben mutuamente como una amenaza existencial[\[1\]](<read://https_lahora.gt/?url=https%3A%2F%2Flahora.gt%2Fopinion%2Fpor-la-transparencia%2F2025%2F03%2F11%2Fdicen-que-se-estan-polarizando-chisme-o-realidad%2F" \l "_ftn1>). Por ello, estos bandos se dedican a atacar, cancelar, denigrar, con soberbia y superioridad, no respetan la dignidad del ser humano. Llegan a desarrollar emociones fuertes hasta el punto de acusar de hipocresía, falsedad o etiquetas negativas que pueden dañar la integridad o los derechos humanos de una persona.
+
+La polarización actual reproduce las divisiones del pasado. Parece que ésta es el nuevo pasatiempo de las juventudes. Hemos creado bandos rígidos, reforzados por narrativas populistas, discursos de odio, desinformación, falacias, mentiras y una peligrosa sensación de “superioridad moral”. Estas dinámicas no solo nos dividen; también nos deshumanizan. En lugar de debatir ideas, atacamos a las personas. En lugar de dialogar, cancelamos o “funamos” al otro. Y todo esto, bajo la bandera de lo “correcto” o “tener la razón”.
+
+¿El resultado? Un círculo vicioso que nos conduce a peleas vacías y nos impide construir consensos. Si seguimos en este camino, ¿qué futuro nos espera? Spoiler alert: la historia nos enseña que la polarización extrema nunca ha sido amiga de la democracia. Por el contrario, es el terreno fértil donde nacen los gobiernos autoritarios, las autocracias y aumenta la conflictividad social.
+
+Estamos a tiempo de cambiar. **Como jóvenes liderando el relevo generacional, debemos priorizar el respeto y el diálogo sobre el conflicto.** **Seguiremos cruzando caminos en política, sociedad civil, sector privado y nuestras comunidades. Pelearnos entre nosotros no llevará a nada.** Hago un llamado a la reflexión. Discutamos, debatamos y dialoguemos, pero sin deshumanizar al otro. Ataquemos ideas, no personas. Todos y todas merecemos dignidad y respeto, independientemente de su ideología, religión, situación económica, identidad de género, orientación sexual o cualquier otra condición.
+
+Si no aprendemos a encontrar puntos en común y trabajar juntos, el futuro no será democrático, sino autoritario. Es nuestra responsabilidad romper el ciclo destructivo que heredamos. La pregunta es: ¿seguiremos repitiendo los errores del pasado o seremos la generación que finalmente logre un cambio real? Es ahora o nunca.
+
+Somer, M., y McCoy, J. (2018). Déjà vu? Polarización y democracias en peligro en el siglo XXI. _American Behavioral Scientist_ , _62_ (1), 3-15. https://doi.org/10.1177/0002764218760371

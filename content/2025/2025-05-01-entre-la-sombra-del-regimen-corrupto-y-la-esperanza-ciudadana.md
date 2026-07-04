@@ -1,0 +1,17 @@
+---
+title: "Entre la Sombra del Régimen Corrupto y la Esperanza Ciudadana"
+author: "Hugo Leonel Camey Castellanos"
+date: 2025-05-01
+---
+
+En Guatemala no se vive una democracia plena. Aunque existen procesos electorales, algunas de las instituciones fundamentales del Estado siguen bajo el control de actores del poder oscuro. El país ha sido capturado por un régimen criminal que ha empobrecido sistemáticamente a su población. El abandono de obras públicas no se debe únicamente a fallas técnicas o problemas de ejecución presupuestaria, sino a un sistema de corrupción profundamente arraigado, dirigido por figuras políticas que históricamente han gobernado el país en función de intereses particulares.
+
+En 2015, un gobierno cayó como resultado de una movilización ciudadana sin precedentes. La indignación colectiva emergió del hartazgo acumulado y de la revelación de redes de corrupción que involucraban directamente al binomio presidencial. Ese fue un punto de inflexión: el inicio de un movimiento ciudadano genuino, espontáneo y esperanzador. No se trató de una estructura política tradicional, sino del despertar de una conciencia dormida tras décadas de manipulación y represión. En ese contexto, la élite corrupta comenzó a percibir un riesgo real de perder el control. Las redes sociales jugaron un papel determinante al convertirse en una plataforma de difusión crítica y construcción de nuevas ideas de cambio.
+
+En 2023, la ciudadanía volvió a desafiar las expectativas. Un giro electoral inesperado desestabilizó a un grupo reducido pero poderoso, que no previó escenarios alternativos y no preparó el andamiaje institucional para asumir una derrota. Como respuesta, recurrieron a mecanismos de emergencia: la fabricación de casos judiciales y la criminalización del proceso electoral, liderada desde el Ministerio Público. Estas maniobras, además de minar la legitimidad de las instituciones, provocaron un elevado gasto de recursos públicos destinados a investigaciones sin fundamento jurídico, más cercanas a la persecución política que a la búsqueda de justicia. Mientras tanto, la fiscalía ha dejado en el abandono miles de casos criminales reales, archivando un porcentaje alarmante de denuncias que afectan directamente a la ciudadanía.
+
+Guatemala aún no ha salido del abismo en el que la hundió ese régimen corrupto. Las recientes detenciones de líderes indígenas de los 48 Cantones de Totonicapán evidencian que las acciones impulsadas desde sectores autoritarios continúan con el objetivo de hacer fracasar a un gobierno que no se alinea con los intereses tradicionales del poder. La criminalización de pueblos originarios y de sus legítimas formas de organización representa una amenaza grave y creciente de regresión autoritaria.
+
+El momento exige una reflexión profunda, colectiva y honesta. Es crucial dejar atrás la desinformación que circula en las plataformas digitales y comprender que el régimen sigue operando con una agenda de agresión directa contra el pueblo de Guatemala. Lo que ocurre no se limita a casos individuales de criminalización: es un ataque sistemático contra la cultura, la organización social, las costumbres y los derechos constitucionales de los guatemaltecos.
+
+Guatemala merece un país libre de corrupción “esto no es ni debe ser visto como normal”, con una justicia verdaderamente independiente y un sistema que respete la voluntad soberana de su gente. La lucha continúa, y la esperanza permanece viva.

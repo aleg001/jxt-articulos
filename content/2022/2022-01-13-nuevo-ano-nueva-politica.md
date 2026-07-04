@@ -1,0 +1,17 @@
+---
+title: "Nuevo año, ¿nueva política?"
+author: "Luis Javier Medina Chapas"
+date: 2022-01-13
+---
+
+Quién no ha escrito, al menos alguna vez en su vida, los tan famosos propósitos de año nuevo. Seguramente en más de alguna ocasión, a modo de no quedarse atrás ante el contexto de año nuevo, te has planteado y has diseñado metas y proyectos para el año que está por comenzar. Ya sea si son metas en el aspecto físico, como ir al gimnasio o bajar de peso, o más académicos como aprender un idioma o comenzar una carrera, tales objetivos siempre son el piso perfecto para echar andar nuestra perseverancia y esfuerzo y finalmente conseguir lo que dicta y anhela nuestro corazón.
+
+Pero estas metas, lamentablemente, a veces no son tan agradables para algunas personas o, en ciertos casos, generan tanta felicidad. Mientras algunos incluso sueñan con viajar al extranjero, comprarse un automóvil o adquirir una casa, otros son todo lo contrario. Según cifras del Banco Mundial, durante el año 2020, la pobreza en Guatemala se elevó del 45.6% al 47%. Aunado a ello, nuestro país se encuentra entre las cuatro tasas más altas de desnutrición crónica a nivel mundial, siendo en este aspecto la puntera a nivel latinoamericano.
+
+Ahora bien, ¿Cómo se traduce esto en las supuestas metas de inicio de año? Estoy casi seguro que para una gran cantidad de guatemaltecos una de las metas para este 2022 es conseguir un empleo digno. La carencia de oportunidades en nuestro país se ve reflejada claramente en las altas tasas de guatemaltecos que migran al extranjero. Por otro lado, seguramente muchas familias del país desean no solo más oportunidades, sino también mejores servicios estatales, es decir, una educación y un servicio de salud eficiente, e infraestructura duradera.
+
+Todo esto, de una u otra manera, está vinculado siempre a un factor en particular: la política. Desde el actuar de los gobernantes y representantes de la población, hasta lo concerniente a las políticas públicas en un ámbito en particular; la política es ese eje transversal que impacta en cada esfera de la vida humana, y determina tanto la calidad de vida como el desarrollo de una nación.
+
+Tristemente en Guatemala la política siempre ha sido contraria al progreso y bienestar. Siglos enteros en donde la democracia, las libertades individuales, la transparencia y la eficiencia estatal han brillado por su ausencia, y se ha allanado el camino para que populistas y demagogos se hagan de lo público. Pero esto no nos debe desalentar, al contrario, debe ser una motivación más para cambiar nuestra tan golpeada realidad y buscar la renovación política en Guatemala. Así como deseamos que en el nuevo año nos vaya bien, alcancemos nuestros sueños y vivamos en paz, debemos desear, pero sobre todo construir, la nueva Guatemala que nos espera para los próximos años. Un país diferente, con una democracia consolidada, con entidades públicas transparentes y en libertad, entendiendo a esta última como un estado en donde el individuo es el rector de su propia vida, pero que tiene un compromiso ciudadano que lo lleva, día a día, a ser un mejor guatemalteco.
+
+Que en estas primeras semanas del año no nos olvidemos del tema político, es más, aprovechemos este contexto para replantearnos las metas colectivas que se tienen y arranquemos con pie derecho en la búsqueda de un mejor país. La nueva política nos espera, ¿estás listo para construirla?

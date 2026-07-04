@@ -1,0 +1,23 @@
+---
+title: "¡Hablemos!  La salud mental de los guatemaltecos se deteriora"
+author: "Meylin Guisela Mendizabal"
+date: 2022-03-31
+---
+
+¿Cómo estás?, es una de las preguntas que hacemos con mayor frecuencia en nuestro día a día y usualmente respondemos sin pensar detenidamente cómo nos estamos sintiendo. ¿Realmente nos encontramos bien?,¿ha sido un buen día?
+
+Hemos vivido un período de más de dos años con mayor estrés, ansiedad e incertidumbre, que en definitiva ha impactado en nuestra salud. ¿Has reflexionado cuánto has cambiado a lo largo de estos años? Consideramos importante recordarte que podemos estar bien físicamente, pero eso no significa que tengamos una buena salud mental.
+
+En ocasiones nos avergonzamos de compartir nuestros sentimientos porque suponemos que esto puede llegar a ser una debilidad, nos da miedo estar solos, ser diferentes y por esto ser juzgados. Nuestros sentimientos son normales y útiles, ya que todos los días nos enfrentamos a nuevos escenarios, enigmas, incertidumbres e incomodidades que dan lugar a emociones tanto negativas como positivas. Sin embargo, al no contar con inteligencia emocional, esto puede derivar en problemas de salud mental. Por eso hoy queremos enfocarnos en un trastorno en específico: la ansiedad.
+
+Nos gustaría compartir contigo una metáfora que consideramos retrata muy bien esta situación. Imagina que no eres un gran fanático de los perros y de repente alguien llega a tu casa con un perro enorme y problemático, y sabes que en cuanto lo suelten, ese perro te lastimará. Te sientes amenazado y con miedo; definitivamente ya no te sientes seguro en tu propia casa. Ahora bien, la ansiedad es como ese perro peligroso que no solo está en tu casa, sino que te acompaña a todos lados. No puedes dormir bien, prefieres no salir, empiezas a analizar distintas posibilidades y riesgos, quieres estar listo ante cualquier incidente.  Entonces, te preguntamos ¿crees sano vivir con un perro que te produce un miedo constante?
+
+La ansiedad puede tener diferentes efectos y grados de intensidad. Puede hacer que evites ciertos lugares o situaciones. Puede distraerte o molestarte, afectando tu rendimiento o suscitando tensión en tus relaciones sociales. Inclusive si no es tratada, estos sentimientos pueden derivar en depresión.
+
+Desafortunadamente, en Guatemala aún persiste el estigma en torno a la salud mental. Nadie padece problemas de salud mental, porque si no son “trastornados”. Este estigma conduce a la falta de interés y cobertura por parte de los funcionarios e infunde un miedo en la sociedad de aceptar que padecen un trastorno mental. Esto da como resultado: falta de asignación de recursos, falta de campañas informativas y concientización, entre otras. De hecho, según una investigación de Cambridge Scholars Publishing (2020), más del 25% de los guatemaltecos sufrirá un trastorno mental en su vida, sin embargo, menos del 1% de los gastos de atención médica del Ministerio de Salud Pública y Asistencia Social (MSPAS) se dirigen a salud mental.
+
+Actualmente, es evidente una falta de cobertura y presupuesto para el MSPAS, y una inexistente cobertura para trastornos mentales. Además de la falta de recursos generalmente relacionada a mala administración y corrupción dentro del propio gobierno. Abordar esta problemática es importante porque acongoja a la sociedad guatemalteca y muchas veces, la religión, las salidas divertidas y la positividad no son suficientes para sanar. Los guatemaltecos sufrimos de traumas y problemáticas heredadas de la invasión española, el Conflicto Armado Interno, la violencia institucional, violaciones de derechos humanos, entre muchas otras. No es posible ignorarlas y no es sano pretender seguir con nuestras vidas como si nada. ¡La salud mental de los guatemaltecos se deteriora!
+
+Hay que dejar claro: no hay salud integral sin salud mental. Para que todos los guatemaltecos la alcancen, debe haber una coordinación entre instituciones gubernamentales que garanticen la implementación de políticas públicas, campañas de información y facilitación de servicios de salud mental de libre acceso para toda la población.
+
+Para nosotras es triste evidenciar que, en Guatemala, la salud mental es un privilegio. Normalicemos hablar sobre estos temas. Las emociones y sentimientos son reales e importantes, ya sea que nuestro sentir se alinee o no con los puntos de vista de otras personas. La próxima vez que preguntes ¿cómo estás? pide una respuesta sincera. La salud mental no se puede ignorar, rompamos el estigma. Entenderla puede marcar la diferencia y puede tener un impacto positivo en nuestro país.

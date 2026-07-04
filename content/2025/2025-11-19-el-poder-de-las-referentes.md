@@ -1,0 +1,23 @@
+---
+title: "El poder de LAS referentes"
+author: "Brisa Morales Hernandez"
+date: 2025-11-19
+---
+
+**Por primera vez en la historia, la carrera por la Secretaría General de las Naciones Unidas tiene un marcado rostro latino… y femenino.**
+
+Las cartas sobre la mesa son conocidas: Michelle Bachelet desde Chile, con su experiencia como presidenta y como Alta Comisionada para los Derechos Humanos; Rebeca Grynspan, costarricense y actual secretaria general de la UNCTAD con una larga carrera en desarrollo internacional; Alicia Bárcena, mexicana, con décadas en la CEPAL y en el sistema de Naciones Unidas; María Fernanda Espinosa, ecuatoriana, expresidenta de la Asamblea General de la ONU; y Mia Mottley, primera ministra de Barbados, reconocida mundialmente por su liderazgo en temas climáticos. Todas ellas con trayectorias diplomáticas sólidas, liderazgo probado y reconocimiento internacional.
+
+Para quienes seguimos los temas globales, esto no pasa desapercibido, pues más allá del simbolismo que pueda dársele, es realmente una señal de que la región ha logrado producir liderazgos femeninos con credenciales técnicas, experiencia ejecutiva y redes internacionales capaces de competir en el máximo escenario multilateral. Cosa que, en sí misma, es un logro impresionante y digno de toda nuestra atención. Este hecho habla de un cambio que va más allá de las cuotas o de las reivindicaciones internas de cada país. Habla de una región que ha invertido en formar diplomáticas, académicas, políticas y negociadoras capaces de ocupar espacios globales con autoridad y credibilidad.
+
+Es importante también subrayar que fueron los gobiernos de nuestra región los que decidieron apostar por estas mujeres, pues las candidaturas a este puesto deben ser avaladas por Estados miembros. Así, además de demostrar la capacidad de gestar liderazgos de este calibre, también vemos nítidamente un esfuerzo regional por impulsar liderazgos femeninos.
+
+Este fenómeno nos permite repensar un concepto que se ha vuelto común en el discurso público: el _empoderamiento femenino_. Lo escuchamos y discutimos constantemente, pero rara vez nos detenemos a preguntarnos por qué resulta necesario “empoderar” solo a las mujeres. ¿Los hombres necesitan empoderamiento? No solemos usar ese lenguaje cuando hablamos de liderazgo masculino y el matiz importa. Este concepto se pensó dentro del marco de la IV Conferencia Mundial sobre la Mujer en Beijing, 1995, con el fin de aumentar la participación de las mujeres en los procesos de toma de decisiones y el acceso al poder para alcanzar la igualdad entre hombres y mujeres. Decimos que las mujeres requieren empoderamiento porque durante décadas estuvo ausente la igualdad en el acceso a cuestiones como la educación, el derecho al voto o la independencia financiera, eso está claro, pero también porque faltaba algo más profundo y necesario: **referentes**.
+
+Un hombre que aspira a liderar tiene, desde pequeño, abundancia de ejemplos: presidentes, empresarios, diplomáticos, científicos, académicos, artistas, etc. A lo mejor no se cuestiona si podría ocupar esos lugares porque, de algún modo, siempre se los vio ocupados por personas que se parecen a él.
+
+Para las mujeres, en cambio, la historia ha sido un tanto distinta, pues sus nombres y rostros no llenaban los tabloides, ni las listas en las elecciones. Sin duda, la falta de referentes no redujo el talento, pero sí el alcance de la imaginación social. Por eso, cuando hoy vemos a una mexicana, una ecuatoriana, una costarricense o una barbadense como contendientes naturales a liderar la ONU, no se trata solo de representación simbólica: es una ampliación real del horizonte de lo posible para niñas y jóvenes, especialmente en regiones donde el ascenso profesional femenino todavía enfrenta barreras prácticas reales.
+
+Lo notable es que el ascenso de estas líderes no se explica por acciones afirmativas o por narrativas revictimizantes. Se explica por mérito acumulado, capacidad de negociación y resultados que hablan más fuerte que cualquier discurso. De ahí que el momento histórico que vivimos nos resulte tan relevante: porque muestra que el liderazgo femenino —y latinoamericano— ya no necesita justificarse; existe, compite y convence por sí mismo.
+
+Que la ONU esté hoy más cerca que nunca de tener a una mujer —y una mujer latinoamericana— al frente abre una conversación distinta. No solo sobre la necesidad de empoderar, sino también de **reconocer**. Reconocer que el liderazgo femenino no es más una excepción, sino una realidad creciente que la política internacional apenas empieza a reflejar y que abre la puerta para las lideresas que ya se están formando.

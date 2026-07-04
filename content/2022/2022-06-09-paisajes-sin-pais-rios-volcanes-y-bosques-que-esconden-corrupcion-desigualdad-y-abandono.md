@@ -1,0 +1,17 @@
+---
+title: "Paisajes sin país: ríos, volcanes y bosques que esconden corrupción, desigualdad y abandono"
+author: "Cindy Herrera Bringuez"
+date: 2022-06-09
+---
+
+Guatemala muy conocida por ser el País de la Eterna Primavera, es uno de los más diversos de Centroamérica. A pesar de ser rico en recursos y ser un país reconocido por sus magníficos volcanes, por poseer el lago más lindo del mundo; la realidad es que esas impresionantes postales, extraordinarias vistas de zonas turísticas esconden décadas de esclavitud, olvido y desigualdad por parte de las autoridades del Estado guatemalteco.
+
+En la región norte de Guatemala se ubica el departamento de Alta Verapaz, con su cabecera departamental Cobán. Alta Verapaz es uno de los departamentos que cuenta con numerosos lugares turísticos como Hun Nal Ye, Laguna Lachuá, Río Cahabón, entre otros. Cobán también es muy rico en recursos naturales y culturales. Sin embargo, a pesar de toda esta riqueza la población que lo habita sufre difíciles realidades al tener el mayor número de conflictos por asuntos agrarios, un gran número de desalojos territoriales y las tasas más altas de pobreza. Además, en este lugar se han presentado múltiples conflictos y violaciones a los derechos de humanos, como encarcelamientos injustificados y asesinatos de defensoras y defensores del medioambiente e indígenas que se han atrevido a denunciar los abusos, la corrupción y la impunidad que afectan los territorios ancestrales que habitan.
+
+Otros de los impactantes y frecuentes sitios de recreación son Playa Blanca, Bocas del Polochic y El Boquerón, ubicados en el departamento de Izabal, en la región nororiente de Guatemala, otro de los departamentos afectado por el abandono del gobierno y las desigualdades que aquejan al país. Asimismo, entre las montañas que adornan el noreste de la ciudad, se encuentra El Estor, un municipio que según sus pobladores se encuentra en total abandono por parte del Estado. A este abandono se le debe sumar los constantes conflictos por tierras entre los pobladores, empresas mineras y plantaciones de palma africana. Ejemplo de esto son los enfrentamientos que ocurrieron a inicios de este año entre los pobladores y una empresa minera que opera de manera irregular en El Estor; y que ha provocado la violación de derechos humanos.
+
+En este artículo se abordan únicamente dos de las ocho regiones que conforman Guatemala, lo que no minimiza ni excluye al resto de regiones de las desigualdades, la corrupción y la impunidad que afectan al país.
+
+Con esto que escribo me gustaría hacer un llamado a la reflexión de toda la población. Está bien que presumamos y nos sintamos orgullosos de los bellos paisajes que se observan en el país. Pero también debemos de enfocarnos en mejorar el sistema actual que rige en Guatemala, nos hemos acostumbrado a vivir rodeados de corrupción, impunidad y desigualdad que asumimos con indiferencia y apatía. Es momento que tomemos conciencia y empecemos a trabajar en mejorar como sociedad y como país.
+
+Ante los constantes atrasos en materia de derechos humanos, a través de los cuales las autoridades de Guatemala han tratado de destruir el sistema de justicia, el tejido social, criminalizando a toda persona que lucha por un país más justo y digno, está en nuestras manos hacer la diferencia, y en el futuro no solo presumir de paisajes, sino también de un país con equidad, educación, seguridad y libre de corrupción.

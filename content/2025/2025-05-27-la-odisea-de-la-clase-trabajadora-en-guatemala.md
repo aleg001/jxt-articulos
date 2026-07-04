@@ -1,0 +1,15 @@
+---
+title: "La Odisea de la clase trabajadora en Guatemala"
+author: "Katerin Gabriela Macario Pac"
+date: 2025-05-27
+---
+
+La clase trabajadora en Guatemala sufre una odisea diaria. Aquellos que madrugan y muchas veces desvelan, tienen una lucha que superar y distintos caminos para elegir cómo hacerlo; el primero de éstos implica la búsqueda de superación mediante el trabajo excesivo, mientras el segundo implica “repetir un ciclo”.
+
+El primer camino es para el guatemalteco que se siente obligado a encontrar una forma de vivir, y no solo sobrevivir; la clave es el trabajo duro para la superación, alcanzando un estilo de vida “decente”. El combustible que lo mueve es el miedo a estancarse o regresar a cuando no poseía nada; la meta es llegar un escalón más arriba en la estructura social, donde se le permita tener mejores oportunidades y ser tratado con dignidad. Aquí ya no importa el cansancio o dolor que se presente, solo importa el impulso constante de seguir hasta conseguir más, convirtiendo cada día en un ciclo de trabajar para vivir y vivir para trabajar.
+
+Podemos admirar estos actos, pero estamos cegados por la ilusión del sobreesfuerzo sin tomar en cuenta sus consecuencias: salud física y psicológica deteriorada, años desaprovechados con familia y amigos, y con bienes acumulados que no serán disfrutados. Esta es la realidad de muchos, que para salir de la pobreza dedican toda su juventud, fuerza y tiempo para luchar contra el sistema para alcanzar una “mejor calidad de vida”, que no es del todo cierta, pues esta calidad no se refiere únicamente a la estabilidad económica, debe incluir salud, recreación, escolaridad, longevidad, etc., que muy pocas personas llegan a poseer.
+
+Por otro lado, está el camino que implica repetir el ciclo, aquel que eligen quienes ya han perdido la esperanza, y transmiten a sus hijos la idea de que no hay nada mejor para ellos que el dinero que se consigue a través del trabajo. Aquí la meta es subsistir, repitiendo un ciclo ya marcado por generaciones anteriores, en el que es suficiente trabajar lo necesario para tener qué comer en el día, conseguir pareja, tener hijos que ayuden a ampliar el negocio o que sean capaces de replicar lo mismo que los padres, satisfacer necesidades básicas y comprar ciertos lujos cuando sea posible. En estas situaciones los padres no consideran como una necesidad la educación de sus hijos, pues es preferible que desde pequeños sean productivos cuidando, vendiendo, obrando en el campo, limpiando parabrisas, etc.; mientras colaboren con los gastos del hogar, no importa si trabajan con sus familiares o con completos extraños que necesitan mano de obra barata.
+
+Hay muchos más caminos en esta odisea, unos más estrechos, más largos, más cortos e incluso otros sucios e ilícitos; lo importante es no olvidar el peso de las consecuencias que cada uno conlleva. Además, muchos no toman estos caminos desde el inicio ni con las mismas condiciones, pues no todos tienen las mismas oportunidades; esta es una invitación a abrirnos a la reflexión y a la empatía con nuestros semejantes en esta inefable odisea que es la vida.

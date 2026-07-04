@@ -1,0 +1,23 @@
+---
+title: "Deepfakes y desinformación, las armas cibernéticas de dictadores y autócratas contra las democracias liberales"
+author: "Pablo Noé de Mata Wug"
+date: 2025-06-03
+---
+
+Las naciones occidentales comparten enemigos comunes y, en un mundo regido por la globalización y la inteligencia artificial —junto con sus múltiples aplicaciones—, incluso las democracias más sólidas y consolidadas enfrentan una amenaza creciente: la desinformación malintencionada y la manipulación de la opinión pública en temas de gran relevancia. Esta situación pone en riesgo dos de los derechos más fundamentales en cualquier Estado de Derecho: la libertad de expresión y la libertad de prensa. Aunque estrechamente relacionadas, no son lo mismo, y ambas luchan por mantenerse vigentes en medio del caos generado por bots, troles y canales de desinformación masiva.
+
+¿Qué es un deepfake? Según la propia inteligencia artificial, se trata de una tecnología que simula la apariencia de una persona en material audiovisual con el objetivo de difundir información falsa. Cuando esta herramienta se combina con el uso masivo de bots, puede emplearse de forma maliciosa para manipular la opinión pública y generar caos.
+
+Un ejemplo concreto de este fenómeno son las elecciones europeas, donde se ha señalado al Kremlin por utilizar tecnologías de deepfake para minimizar el impacto mediático de la guerra en Ucrania y respaldar a candidatos pro-Rusia con fines claramente expansionistas; a esto se suma el reclutamiento de mercenarios digitales para boicotear procesos democráticos en Europa del Este. Estas acciones han provocado un giro preocupante en la postura de algunos países hacia la Unión Europea, incluso entre aquellos que esperan su admisión al bloque comunitario.
+
+La desinformación, a través de deepfakes, puede ser una herramienta de guerra masiva utilizada por autores políticos antidemocráticos que se benefician de las divisiones sociales, la desconfianza y la incredulidad en instituciones específicas o incluso en empresas que no son afines a sus intereses. En este sentido, es fundamental que los gobiernos con legitimidad y capacidad de gobernanza preparen a los tres poderes de la República para enfrentar los desafíos de la era digital 2.0, especialmente en lo que respecta a la identificación de los autores y delitos vinculados a este nuevo entorno tecnológico.
+
+Es fundamental contar con el compromiso de las empresas tecnológicas, tanto nacionales como internacionales, para mantener un control riguroso sobre sus plataformas y evitar que herramientas populares como los chatbots propaguen contenido distorsionado o peligroso. La ética, la objetividad y el propósito original de estas tecnologías deben estar claramente definidos, y en caso de fallos, las empresas deben asumir la responsabilidad por los daños ocasionados.
+
+Paralelamente, es urgente desarrollar un marco jurídico actualizado, en colaboración con expertos en tecnología, que permita sancionar delitos como la desinformación, la incitación al odio, la suplantación de identidad, la publicidad engañosa y la propaganda abusiva. Estas prácticas amenazan la paz social, distorsionan el debate público y afectan directamente la labor de la prensa y la libertad de expresión.
+
+Solo a través de estos avances —tecnológicos y legales— podremos enfrentar con firmeza los desafíos del entorno digital actual y proteger la salud democrática de nuestras sociedades frente a amenazas tanto externas como internas. En el caso de Guatemala, la ausencia de legislación específica sobre delitos cibernéticos representa una vulnerabilidad crítica en tiempos de alta tecnología y nuevos métodos de desinformación.
+
+Los enemigos de la democracia, los derechos humanos, la alternancia en el poder y la libertad de expresión, atraviesan uno de sus momentos más favorables. Aprovechan la vulnerabilidad global, marcada por guerras en Europa Oriental y Medio Oriente, y tensiones económicas a nivel mundial. En este contexto, los aranceles impulsados por el gobierno de Estados Unidos en el comercio internacional contribuyen a un escenario de inestabilidad. Todo ello convierte al fenómeno de la desinformación en una amenaza real para la seguridad global, explotada por figuras políticas que van desde el Kremlin hasta la Casa Blanca.
+
+Como individuos, podemos hacer frente a este fenómeno actuando como verificadores de hechos. Esto implica confrontar y contrastar la información que recibimos, especialmente en redes sociales, donde es crucial verificar la autenticidad de las cuentas que la difunden. Además, es fundamental leer más, informarnos con espíritu crítico y recurrir siempre a fuentes confiables y bien establecidas.

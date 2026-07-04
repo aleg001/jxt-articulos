@@ -1,0 +1,17 @@
+---
+title: "Todo inicia con los incentivos"
+author: "Luis Javier Medina Chapas"
+date: 2022-05-17
+---
+
+En mis artículos pasados escribí acerca del significado de la corrupción y sobre cómo podemos reducirla. Sin embargo, una cuestión que quedó en el tintero fue el tema de cómo las instituciones públicas se corrompen y cuáles son las razones por las cuales se ve al Estado no como un ente encargado de la protección de nuestros derechos, sino como un aparato al que se puede cooptar e instrumentalizar para beneficio propio. La respuesta: los incentivos.
+
+¿Qué son los incentivos? Si se hace una búsqueda en internet se hallará que los incentivos son aquellos que impulsan o hacen desear algo en particular, generando a corto plazo una acción con base a este deseo. Estos incentivos se pueden identificar en todo ámbito de la vida humana. Quizás el ejemplo más sencillo es el de la persona que está haciendo dieta y fue de paseo a un centro comercial con numerosos restaurantes de comida chatarra. ¿Qué reacción generará el olor a comida, las ofertas y demás publicidad en esta persona? En la mayoría de casos seguramente sucumbirá a la tentación, peor aún si se trata de una reunión con amigos o familiares.
+
+Y es aquí donde este concepto se conjuga con el aspecto político: los incentivos son pieza clave para entender el fenómeno de la corrupción y por qué la persecución penal no es suficiente, ya que si únicamente se persiguen corruptos, pero no se reduce el estímulo para corromperse, jamás se avanzará en esta lucha. En pocas palabras, únicamente se está contrarrestando la enfermedad, pero no los malos hábitos que la generan directa o indirectamente.
+
+¿Cómo solucionar esto? Pues combatiendo los incentivos, es decir, lo que genera que las personas que trabajan en las instituciones se corrompan, y que grupos externos intenten controlar puestos importantes para su propio beneficio. Hay que entender que entre más capacidad de acción e influencia tenga un puesto en la administración pública, más interés habrá por parte de terceros para cooptarlo. La respuesta acá es reducir la discrecionalidad, y tener en cuenta que no importa quién sea la persona o cuál es su apellido, lo más importante es combatir la arbitrariedad del puesto que ostenta.
+
+Por otro lado, se deben buscar alternativas para reducir gradualmente al Estado y mejorar la calidad del gasto, a fin de que tanto políticos como terceros no lo vean como un botín. No se puede negar que muchos de los casos de corrupción en los últimos años han estado vinculados a la existencia de entidades cuya verdadera función es ser un espacio para pagar favores o desviar dinero público. En este sentido, la respuesta es identificar estos focos de corrupción y finalmente eliminarlos. Claro está, ello abre la puerta a una discusión más técnica sobre qué entidades deben sobrevivir y cuáles no, pero es una discusión necesaria para mejorar la calidad del gasto con base a resultados.
+
+Aceptar esto conlleva un cambio de perspectiva, convirtiendo al problema en algo no tan mediático, sino más enfocado en el origen, en cómo está estructurado el Estado. Para ello se requiere ser disruptivos, rompiendo el círculo vicioso de polarización en el que hemos estado inmersos desde 2015, Pero, sobre todo, ir más allá de lo que las noticias y los políticos dicen.  Aquí la responsabilidad es de nosotros como ciudadanos, de hacer las cosas distintas por nuestro país.

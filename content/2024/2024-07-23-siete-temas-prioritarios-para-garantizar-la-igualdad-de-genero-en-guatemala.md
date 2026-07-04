@@ -1,0 +1,23 @@
+---
+title: "Siete temas prioritarios para garantizar la igualdad de género en Guatemala"
+author: "Linda María Alay Medina"
+date: 2024-07-23
+---
+
+Ante las múltiples problemáticas generadas por la brecha de género en esferas como la educación, el trabajo o la política, diversas mujeres guatemaltecas han consensuado una agenda política de acciones mínimas que buscan encaminar al país hacia la igualdad de género. 
+
+Las instituciones del Estado deben ser ejemplo de prácticas positivas. Aquí te presento siete acciones que podrían garantizarse en el ámbito público: 
+
+1.  **Espacios de lactancia materna en las instituciones.** Según datos de UNICEF, las mujeres que cuentan con espacios para extraer leche en su lugar de trabajo tienen menos ausencias y están más comprometidas con la institución. Esto beneficia a las mujeres y a sus bebés, que cuentan con mejores defensas, pero también a la economía en general. La Sección de la Mujer Trabajadora del Ministerio de Trabajo y Previsión Social guía este esfuerzo, sin embargo, actualmente, no todas las instituciones garantizan este derecho.
+2.  **Guarderías infantiles cercanas a las oficinas y comunidades.** Habitualmente, los trabajos de cuidado no remunerados recaen desproporcionadamente en las mujeres, limitando sus oportunidades laborales y educativas. Si el Estado garantizara guarderías, las familias podrían estar cerca de sus hijos e hijas, permitiendo a las mujeres equilibrar mejor sus responsabilidades familiares y laborales. La Secretaría de Bienestar Social, a través del Departamento de Regulación de Centros de Cuidado Infantil Diario, es el ente rector en esta materia y debe asegurar la disponibilidad de guarderías accesibles y de calidad. 
+3.  **Protocolos de prevención de la violencia sexual y hostigamiento laboral.** Es necesario implementar procedimientos para la prevención, canales de denuncia accesibles y confidenciales, atención a las víctimas, medidas de protección, reparación y rendición de cuentas. Esto permitirá una cultura organizacional basada en el respeto y en la equidad. Estos protocolos deben ser acompañados por la Secretaría Presidencial de la Mujer para garantizar su efectividad. 
+4.  **Licencias por paternidad.** El actual Código de Trabajo otorga 84 días por licencia de maternidad a las mujeres y solo dos días a los hombres. Esto refuerza los roles de género tradicionales, colocando todo el peso del cuidado infantil sobre las mujeres y limitando que los hombres generen un mayor vínculo afectivo con sus hijos o hijas. Ampliar las licencias de paternidad permitiría a los hombres asumir mayores responsabilidades en los cuidados. Esta reforma al Código de Trabajo debe ser prioridad para el Congreso de la República. 
+5.  **Programas de pausas activas.** La vida sedentaria, incentivada por largas jornadas laborales sin interrupciones, perjudica la salud y genera malos hábitos alimenticios, obesidad y troficidad de las articulaciones. El Ministerio de Cultura y Deportes cuenta con un programa orientado a estos temas. Las instituciones pueden implementar al menos 15 minutos de actividad física guiada por profesionales, mejorando así la salud física y mental, lo que beneficia a las instituciones y al sistema de salud pública. 
+6.  **Política de salud mental.** La salud mental debe ser una prioridad en nuestra agenda pública, especialmente en instituciones que atienden problemáticas complejas. Es necesaria una política nacional de salud mental y recursos para garantizar el bienestar emocional y psicológico de las personas. Así mismo, el Congreso de la República debe aprobar la iniciativa de Ley para la Atención Integral de la Salud Mental. 
+7.  **Espacios de atención a adultos mayores.** Actualmente, hay mayor atención a las infancias, sin embargo, las personas mayores requieren centros de día y residencias que brinden alojamiento, cuidado médico y apoyo emocional que fomenten su autonomía y garanticen su calidad de vida. 
+
+Muchas personas podrán considerar esta agenda ambiciosa, y, ciertamente, lo es, pero ¿no es lo mínimo que merecemos? ¿acaso para llegar a una meta no es necesario dar un primer paso? Estas medidas son mínimas frente a las transformaciones profundas que requiere la sociedad.
+
+Es necesario que como Estado establezcamos un estándar en el que todas las instituciones, tanto públicas como privadas, adopten y cumplan prácticas que promuevan mejores condiciones de vida.
+
+Nadie debe quitarnos el derecho a tener esperanza, a soñar y, sobre todo, a luchar desde nuestros espacios por esta agenda política que beneficiaría a toda la sociedad. Como guatemaltecas y guatemaltecos no podemos, ni debemos, conformarnos con menos.

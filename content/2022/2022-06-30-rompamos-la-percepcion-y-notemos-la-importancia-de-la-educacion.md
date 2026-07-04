@@ -1,0 +1,15 @@
+---
+title: "“Rompamos la percepción y notemos la importancia de la educación”"
+author: "Marcela Mirón Contreras"
+date: 2022-06-30
+---
+
+Guatemala es un país pluriétnico y pluricultural, con una variedad de lugares turísticos, flora y fauna diversa. Un lugar con calles y paisajes hermosos, pero asimismo, muchos contrastes, teniendo un porcentaje muy elevado de analfabetismo. La mayor parte de la población en Guatemala es indígena y no tiene acceso ni recursos a nivel educativo.
+
+La mayoría de las personas guatemaltecas que viven en el área rural son campesinos que no cuentan con escuelas públicas en buenas condiciones, por lo tanto, optan por enseñarles oficios técnicos y domésticos a sus hijos para generar ingresos y, en muchos casos, estos niños, menores de edad, ayudan en la agricultura, en la siembra y en la cosecha de alimentos. Es ahí, en donde vemos que los padres influyen al no motivarlos, ni incentivarlos en materia educativa. Lamentablemente, esto se ha convertido en un círculo vicioso, en donde los padres que no tuvieron acceso a la educación, tampoco ven importante fomentar en sus hijos la asistencia a un centro educativo, sin importar que esto les dé acceso a otras oportunidades de crecimiento escolar y laboral.
+
+Por otro lado, el sector de la educación pública no ofrece una educación de buena calidad que invite a los niños a estudiar y buscar mejores oportunidades, ya que, lamentablemente, los establecimientos carecen de servicios básicos, siendo estos: mobiliario, equipo escolar, agua, luz, buenas instalaciones, servicios sanitarios, presupuesto para el manejo de gastos escolares y docentes. Una escasez que tiene como causante la falta de valores, empatía y la corrupción enraizada en el país.
+
+Guatemala ha tenido un nivel muy bajo en el campo de la educación, siendo más notorio en el área rural. Tristemente, se observa un alto índice de deserción en algunos niños que empiezan la educación primaria, debido a la falta de motivación, interés y apoyo ante el estudio. En la actualidad, debido a la pandemia de Covid-19, este abandono hacia el estudio ha sido más alto, ya que muchos niños y maestros no contaban con el equipo necesario para recibir clases en línea. Adicional a eso, la educación virtual no ha sido 100% funcional durante este tiempo, pues los niños han perdido el interés, se han acomodado a estar en casa y ayudar en tareas del hogar.
+
+En resumen, podemos darnos cuenta de la importancia de la educación integral, en la que los mayores intervienen apoyando al niño en su educación. Debemos concientizar a los padres de la importancia del conocimiento a través del sistema escolar. La educación es esencial en la vida de cada persona, y un complemento de la formación moral que es impartida en el hogar. Está en nuestras manos incentivar a los niños a no abandonar sus estudios, cortar el círculo y darle continuidad a la educación de los niños y jóvenes de nuestra Guatemala. Solo así podremos sacar adelante nuestro país, pues la educación en las sociedades fortalece el conocimiento para la formación de buenos ciudadanos.

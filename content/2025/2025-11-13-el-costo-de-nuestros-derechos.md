@@ -1,0 +1,41 @@
+---
+title: "El costo de nuestros derechos"
+author: "Meybel Amaya"
+date: 2025-11-13
+---
+
+“En Guatemala ejercer un derecho sigue costando demasiado, y ese costo: el silencio, el exilio y el miedo, no lo debería pagar la ciudadanía, sino la injusticia misma”.
+
+Vivimos bajo una democracia perversa, una que aprendió a sostenerse no en la justicia ni en la participación ciudadana, sino en la resignación colectiva. Se ha vuelto un sistema experto en disfrazar la corrupción con campañas electorales, en maquillar la impunidad con discursos de legalidad, y en justificar el abuso con tecnicismos. Una democracia que simula funcionar, mientras los derechos se erosionan lentamente entre el miedo y la costumbre.
+
+En Guatemala, la impunidad no es un accidente, es la arquitectura invisible que sostiene al poder; el Estado parece existir solo para proteger a quienes lo capturaron. La justicia se volvió selectiva, la ley un instrumento de venganza, y el Ministerio Público, una herramienta más del control político. La perversión democrática consiste justamente en eso: mantener las formas del sistema para vaciarlo de sentido.
+
+Este desmantelamiento tiene un precio: exilios, silencios y prisiones, persecución de periodistas, fiscales, jueces y defensores de derechos humanos; se manifiesta en el miedo cotidiano de quienes aún creen que alzar la voz puede servir de algo, pero no hacen nada al respecto, y en una economía atrapada y diseñada en desigualdad. No es casualidad que los mejores años de avance institucional hayan coincidido con los años de mayor persecución: el castigo a quienes se atrevieron a desafiar la impunidad.
+
+Durante el auge del apoyo de la Comisión Internacional contra la Impunidad en Guatemala -CICIG- al Ministerio Público, la justicia tocó las puertas del poder como nunca antes. Los casos se multiplicaban a tal ritmo que la prisión de la Brigada Mariscal Zavala ya no se daba abasto. Pero la verdadera novedad no fue desmantelar redes corrupción, sino el hecho de que ya no quedaban excusas para negarlas. Por primera vez, el país fue testigo directo de la estructura de impunidad, lo que resultó intolerable para las élites. El miedo, más que el cinismo, se convirtió en el motor principal de la conducta empresarial y política: miedo a perder los privilegios, miedo a la justicia, miedo a un país que por un instante pareció despertar; además se reveló la imposibilidad de seguir fingiendo que existen dos realidades conviviendo en el país, la del privilegio y la del resto de la población.
+
+El reto entonces y ahora, no era solo denunciar, sino reconstruir un Estado para todos. Dejar de vivir en bloques separados: los que gozan de impunidad y los que sufren sus efectos. La élite económica comprendió que la desigualdad que tanto se esforzó en mantener puede convertirse en su mayor amenaza, pues no es estática y se convierte en un boomerang devolviendo sus consecuencias: inseguridad, migración y pérdida de legitimidad económica. El miedo a compartir poder resultó más costoso que el propio cambio.
+
+La migración guatemalteca no es un fenómeno aislado; es la consecuencia directa de una economía concentrada, excluyente y dependiente de las remesas como paliativo de la desigualdad. El país vive de los que se fueron, una verdad tan perversa como dolorosa: Guatemala subsiste gracias al sacrificio económico de los que ya no viven en ella.
+
+Ver la migración como un problema no es accidental, es funcional; sirve para evidenciar que lo que realmente expulsa a la gente no es la falta de amor por su tierra, sino la injusticia estructural. Migrar se ha vuelto la forma más efectiva de escapar de un sistema que no castiga al corrupto, sino al pobre. La migración democratiza la riqueza tanto como la pobreza, y eso resulta incómodo para quienes se benefician del desequilibrio; cada dólar enviado por un migrante es un recordatorio de que el país no les dio oportunidades, pero sí les cobra tributo en nostalgia y esfuerzo.
+
+Construir una economía democrática implica dejar de expulsar para poder crecer, significa valorar la movilidad como una expresión legítima de la búsqueda de bienestar, y no como una amenaza. Pero eso solo será posible si entendemos que la migración no es el enemigo, sino la evidencia más cruda de que la economía interna ha fracasado en repartir el fruto del trabajo. El migrante no es el problema; el problema es el sistema que obliga a migrar.
+
+Guatemala no sufre de escasez, sufre de concentración. El 1% de la población controla más del 60% de la riqueza, y ese desequilibrio es la raíz silenciosa de la inestabilidad democrática. No hay democracia posible donde la economía sea un campo minado de privilegios. La estructura fiscal regresiva, la ausencia de inversión social, el desmantelamiento de los servicios públicos y la evasión sistemática, son síntomas de una economía que trabaja para los pocos y sobrevive gracias a los muchos; esa asimetría, más que ideológica, es moral.
+
+En las últimas décadas, la economía guatemalteca ha crecido, sí, pero a costa de la precarización laboral, del abandono rural y de la dependencia total de las remesas. Mientras el Producto Interno Bruto presume estabilidad, la mitad del país vive en pobreza, y las niñas y niños crecen sin acceso a nutrición, educación o justicia. Esa brecha no es un error técnico, es una decisión política; una democracia que no redistribuye el poder económico termina sirviendo solo a quienes pueden comprarla, y esta es la perversión más profunda: que el derecho a una vida digna dependa de la capacidad de pagarla.
+
+El costo de tener derechos no debería medirse en sacrificios humanos, pero en Guatemala sigue siendo así. Cada persona que se exilia, cada joven que migra, cada mujer que calla una injusticia, son parte de una factura colectiva que el Estado nunca asume. La impunidad tiene un precio, y lo estamos pagando todos; lo pagan los niños que crecen sin escuelas, los campesinos sin tierra, los jueces perseguidos, los periodistas silenciados. Lo pagan los que se van y los que se quedan.
+
+Pero aun dentro de esta democracia perversa, existe un eco de resistencia. Ese eco se escucha en quienes aún se atreven a denunciar, en quienes enseñan, y organizan comunidades desde abajo, en quienes creen que el país puede volver a mirarse sin vergüenza. Porque el verdadero desafío no es sobrevivir a esta etapa oscura, sino construir una democracia que no se conforme con la apariencia del voto, y que garantice la dignidad de vivir.
+
+Mientras las instituciones se desgastan entre formalismos y simulaciones, la ciudadanía carga el costo de una estructura que normalizó la injusticia. El colapso ético del sistema también ha dejado al descubierto su fragilidad: la certeza de que sin equidad, participación y verdad, ninguna democracia puede sostenerse.
+
+El desafío no es únicamente jurídico o económico, sino moral. Implica desmontar la arquitectura de la impunidad y reconstruir una noción de Estado fundada en la dignidad humana, donde el desarrollo no dependa del sacrificio de los que se fueron ni del silencio de los que se quedan. Requerimos una economía democrática y una justicia restauradora que devuelvan sentido a la convivencia social y legitimidad al poder.
+
+El problema de Guatemala no es la ausencia de leyes, es la ausencia de voluntad para cumplirlas; no es la falta de riqueza, sino su concentración. En esa asimetría se gesta la violencia estructural que expulsa, empobrece y fractura la confianza cívica. Superarla exige una ciudadanía que recupere su papel como brújula ética del Estado, capaz de transformar la indignación en acción colectiva y la esperanza en proyecto común.
+
+Quizá la utopía, como diría Galeano, no sea un destino, sino el horizonte que nos obliga a avanzar. Y en ese movimiento –entre la crítica y la fe, entre el desencanto y la persistencia– se encuentra la tarea política más urgente de nuestro tiempo: reconstruir una democracia que no tema mirarse al espejo y reconocerse humana.
+
+**_El costo de tener derechos no debería medirse en sacrificios humanos, pero en Guatemala sigue siendo así. Esta dolorosa realidad muestra el rostro humano de la injusticia, y mantener la lucha por la justicia y la democracia sigue siendo el acto de fe política más grande de nuestro tiempo._**

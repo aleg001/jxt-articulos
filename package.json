@@ -1,0 +1,12 @@
+{
+  "name": "jxt-articulos",
+  "private": true,
+  "description": "Artículos en markdown + índice, generados desde los .docx de Drive",
+  "scripts": {
+    "sync": "node scripts/sync.mjs"
+  },
+  "dependencies": {
+    "mammoth": "^1.8.0",
+    "turndown": "^7.2.0"
+  }
+}

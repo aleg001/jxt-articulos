@@ -1,0 +1,19 @@
+---
+title: "La correlación de fuerzas en el Legislativo"
+author: "Osmar David Gamboa Escobar"
+date: 2024-08-20
+---
+
+La ampliación presupuestaria aprobada recientemente en el Congreso de la República no debe tomarse a la ligera, principiando por la cantidad aprobada de Q14 mil 451 millones. con 109 votos, luego de varias horas en las que el oficialismo negoció los apoyos necesarios. Dicha ampliación solicitada por el Ejecutivo no solo es cuestionada por la oposición, si no también por varios colectivos y asociaciones como la Asociación de Investigación y Estudios Sociales (ASIES) y el Instituto Centroamericano de Estudios Fiscales (ICEFI).
+
+Los cuestionamientos parten desde la ampliación a los Consejos Departamentales de Desarrollo (Codedes), pasando por la poca claridad de ejecución de algunos fondos asignados a distintas entidades, lo que puede generar bolsones y opacidad sobre el destino  de estos. También algunos diputados han manifestado su oposición dado que la ampliación no pasó por el debido proceso de aprobación en la comisión de finanzas del Congreso.
+
+Retornando a que este acontecimiento no debe tomarse a la ligera, la cantidad de votos conseguidos por el oficialismo (109) sorprende cuando hace algunas semanas se les cuestionaba el no poder llevar las riendas de una agenda legislativa apegada a sus intereses. ¿El oficialismo negoció los votos a cambio de la adjudicación de obras que benefician a empresas ligadas a los diputados? Si bien es un secreto a voces que fue una práctica muy frecuente en legislaturas anteriores, no sorprendería que esta sospecha fuera cierta.
+
+Aunque algunas bancadas opositoras explicaron sus descontentos con la ampliación, varios  de sus integrantes votaron a favor de la moción. Esto demuestra una correlación de fuerzas dentro del hemiciclo que podría conducir a una eventual aprobación de la ley orgánica del Ministerio Público, que permitiría una remoción de la Fiscal General antes de que finalice su período en 2026.
+
+No obstante, las prácticas ejecutadas por el oficialismo recuerdan a las utilizadas por la vieja política, algo que en época de campaña era impensable para quienes conforman el bloque, hasta el día de hoy independiente. Por llevar un caso bajo reserva en el que el  Ministerio Público se ha encargado de atar “políticamente” al partido para obstaculizar sus objetivos dentro del hemiciclo, así como criminalizar a varios allegados al Ejecutivo, está el ejemplo de la reciente captura de la ex diputada por el partido Semilla y actual directora del Instituto de la Víctima, Ligia Hernández, quien fue ligada a proceso y enviada a prisión preventiva por el caso “Corrupción Semilla”, llevado por el juez Fredy Orellana, catalogado como actor corrupto e integrante de la lista Engel.
+
+El problema de remover a Consuelo Porras con una reforma a la ley orgánica del Ministerio Público es que esta se lleve a cabo bajo las mismas condiciones corruptas que la llevaron allí. Pareciera que la política guatemalteca se encuentra en un bucle que necesita de coimas y pago de favores para mover sus engranajes. La campaña electoral finalizó en octubre del 2023, sin embargo, da la impresión que algunos diputados oficialistas, que siguen moviendo el discurso de una pelea del bien contra el mal a través de sus redes sociales, no son conscientes que las metodologías utilizadas en la actualidad no difieren a las del pasado, o, cabe la posibilidad que sí lo sepan, pero el tiempo que llevan sentados en su curul les ha demostrado que en la política el cinismo es parte de la praxis.
+
+No sabemos con exactitud hacia dónde nos llevan los recientes acontecimientos del Congreso, da la sensación que los legisladores mueven la agenda tanto como se mueve el dinero. Quizás para hacer caminar a este país es inevitable mancharse de corrupción debido a la inexistencia de la voluntad política.

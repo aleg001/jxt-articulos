@@ -1,0 +1,19 @@
+---
+title: "Guatemala Dictadura Si, Democracia No"
+author: "Diego de León"
+date: 2025-11-06
+---
+
+**Diego Alejandro de León García**
+
+Guatemala es un país marcado por su historia, una trayectoria compleja que ha transitado entre períodos de autoritarismo y democracia. A lo largo del tiempo, el país ha experimentado altibajos profundos: etapas de dictadura en las que, aunque se percibían ciertos avances en materia de control y seguridad, se restringían las libertades individuales; y momentos democráticos en los que, pese a una mayor apertura política, se evidenciaban retrocesos en la garantía y protección de los derechos fundamentales.
+
+La Revolución de 1944 que se conmemora cada 20 de octubre, representó uno de los momentos más trascendentales de esta historia política y social del país. Este movimiento puso fin a más de una década de dictadura y abrió un período de profunda transformación democrática conocido como la “Primavera Guatemalteca”. Durante esta etapa se impulsaron reformas sustantivas en el ámbito político, laboral, agrario y educativo, como el establecimiento de las escuelas tipo federación; se promulgó una nueva Constitución (1945) que consagró derechos fundamentales y fortaleció las libertades públicas; se estableció el Código de Trabajo que garantizó derechos sindicales y laborales, se creó el Instituto Guatemalteco de Seguridad Social y se promovió la Reforma Agraria, orientada a redistribuir la tierra y mejorar las condiciones de vida de los campesinos. Estas acciones reflejaron un proyecto de Estado moderno, incluyente y comprometido con la justicia social, aunque posteriormente fueron truncadas por presiones internas y externas.
+
+A pesar de que la Revolución inauguró esta etapa democrática, caracterizada por la ampliación de derechos sociales y la apertura política, el ejercicio de la ciudadanía seguía siendo limitado, por lo que incluso podría considerarse que se vio marcada por tintes dictatoriales. El derecho al voto –pilar fundamental de toda democracia– no fue plenamente garantizado para toda la población, pues la Constitución de 1945 establecía restricciones basadas en el alfabetismo y el género.
+
+No todas las personas tenían el derecho al voto, únicamente podían votar las personas alfabetas. Esta situación hace reflexionar sobre el motor que ha impulsado el ascenso de las grandes redes de corrupción al poder del país: se han aprovechado de la ignorancia de nuestra población a través de la manipulación de toda la información. Como alguna eterna candidata dijo alguna vez: “La ignorancia es la riqueza de la cultura de nuestro pueblo”; a pesar de estas declaraciones ella siempre está entre los primeros puestos en las elecciones.
+
+Las personas que cada cuatro años están esperando la ayuda de los políticos en campaña, las personas a las que no les llega ni siquiera la luz, son las más vulnerables ante la manipulación. A esas personas ya no se les debe permitir votar (personas analfabetas), porque el desarrollo no viene del sueño de una utopía, los cambios necesitan decisiones drásticas y que trasciendan.
+
+Para algunas personas esta postura puede considerarse vivir en democracia, para otros vivir en una dictadura, pero para poder alcanzar un desarrollo inclusivo y avanzar juntos en sociedad, debe existir un equipo de personas que se atrevan a promover el cambio y establecer un sistema de poder y control total que no permita posibilidad de que fuerzas oscurantistas puedan volver a tener el poder en sus manos, eliminando todo intento de subversión y trabajando por el bien colectivo. Este grupo debe garantizar que no existan posibilidades de perder el poder, tener libertad de trabajar sin obstáculos y eliminar los que se presenten; es un camino que puede llegar a ser polémico, pero es la única forma de poder gobernar sin contrapesos, y que los tres poderes del estado trabajen conjuntamente con ideas claras y en una misma dirección.

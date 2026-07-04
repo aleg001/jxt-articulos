@@ -1,0 +1,19 @@
+---
+title: "A un like de la Presidencia"
+author: "Jenni López"
+date: 2022-08-09
+---
+
+Decía Mark Zuckerberg: “Facebook es ya el tercer país más grande del mundo, si consideramos su población, por lo que es capaz de mover más información que cualquier gobierno”. Y con esto podemos entender la influencia y el poder que tienen las redes sociales sobres nuestras decisiones diarias. Para una simple publicación es necesario planear una estrategia social y psicológicamente intrínseca; ingresar en la mente de quien la ve, convirtiéndose con ello en el dueño de las emociones y de las acciones del individuo de forma inconsciente.
+
+Y esto es algo que los partidos políticos lo entienden a la perfección. El éxito de las próximas elecciones vendrá de parte de quien tenga el mejor equipo de creación y producción de contenido. Es lo que hoy en día para los jóvenes de nuestra generación, y me incluyo, en ocasiones pareciera que las redes sociales son la verdad absoluta.
+
+Un ejemplo de ello son los últimos acontecimientos que se desarrollan en la Universidad de San Carlos de Guatemala, de la que ya sabemos al pie de la letra todo lo que está sucediendo. Pero no porque nos quitaron el poder. Si no, porque lo perdimos en el momento que existió apatía y desinterés por cierto grado de la población estudiantil, en aprender y vigilar cómo se desarrollaba el proceso electoral.
+
+Lamentablemente, si seguimos ignorando todo el acontecimiento diario, es un hecho que a escala mayor sucederá lo mismo en las elecciones gubernamentales de 2023. Pero esto dependerá de a quién nosotros como población le demos el poder. Recordemos que usted como ciudadano es el jefe de Recursos Humanos, su labor es leer y estudiar todos los planes de gobierno, ver si son factibles o al menos reales de ejecutarse en cuatro años y, a la vez, conocer a cada uno de los que integran cada una de las planillas para tomar decisiones inteligentes. Entonces sí su trabajo como reclutador ha dado éxito, ya puede contratar al nuevo gobernante de la Nación en las urnas.
+
+Si el proceso electoral no es difícil; se trata de leer, investigar y no dejarse llevar por las redes sociales. Es tan fácil manipular y descontextualizar los sucesos a un clic de distancia, y hacerles creer a las personas cosas que realmente nunca pasaron o que no pasarán. Cada día, estamos llenos de ruidos comunicacionales que hemos olvidado la empatía y las ganas de luchar por lo que sucede. Mientras que aquellos que buscan el poder a toda costa utilizan las redes sociales de forma silenciosa para mostrar su buen nombre y honorabilidad, que quizás sea cierto en ciertos casos, pero en la mayoría ya sabemos que no es así.
+
+Es una frase tan repetida, pero parece que la dicen y la dicen y no la entendemos: “Quien no conoce su historia está condenado a repetirla”. Pero Guatemala conoce su historia y aun así la repite, la repite y la repite. Sin embargo, creo que ser jóvenes y no hacer nada es como negar nuestra juventud, así que usemos las redes para el bien, para informar. Esta vez tenemos como aliada la compañía Meta que: Desde el 22 de junio, empezó a regular y transparentar la publicidad política y electoral en 19 países de Latinoamérica”. Esto incluye a Guatemala, sin embargo, hay diversos candidatos a la presidencia que están utilizando desde sus perfiles individuales como cualquier otro usuario, e incluso utilizando la fama de los logros de deportistas, actores, actrices y músicos para posicionarse en la mente de la población y ganar esa simpatía para obtener el voto. Aún con las regulaciones que Meta pretende implementar.
+
+No permitamos como jóvenes que el trending topic nos dé un influencer como presidente, cuando lo que Guatemala necesita no es un Presidente de likes, sino obras de desarrollo social que valgan la pena postearlas al mundo.

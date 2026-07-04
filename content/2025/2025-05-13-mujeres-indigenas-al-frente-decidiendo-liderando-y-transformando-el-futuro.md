@@ -1,0 +1,25 @@
+---
+title: "Mujeres Indígenas al frente: Decidiendo, liderando y transformando el futuro"
+author: "Cynthia Mileydi Cholotío Hernández"
+date: 2025-05-13
+---
+
+Desde que era pequeña he visto cómo las mujeres indígenas, como yo, a menudo quedamos en la sombra cuando se trata de tomar decisiones. La historia nos ha dejado de lado, relegándonos a roles secundarios en nuestras comunidades y aún más, en las estructuras de poder a nivel nacional. A lo largo del tiempo, hemos enfrentado una doble marginación: por ser mujeres y por ser indígenas. En una sociedad que es estructuralmente racista y patriarcal, conseguir un lugar al frente y poder ejercerlo plenamente se convierte en una verdadera hazaña. Aunque algunas mujeres han logrado abrir caminos, todavía son pocas las que están al frente, luchando por representar a nuestras comunidades con nuestras propias voces y cosmovisiones.
+
+Mujeres como Rigoberta Menchú Tum, quien rompió barreras a nivel internacional al recibir el Premio Nobel de la Paz en 1992, son excepciones a la regla. Su lucha incansable por los derechos de los pueblos indígenas sigue siendo un faro para muchas, pero aún queda mucho por hacer para que no se trate solo de figuras aisladas, sino parte de un movimiento creciente de liderazgo indígena femenino.
+
+Hoy en día mujeres como Sonia Gutiérrez Raguay, abogada maya poqomam y diputada, está demostrando que es posible participar en la política sin renunciar a nuestra identidad. Desde el Congreso, Sonia ha alzado la voz en contra de las injusticias estructurales y por los derechos colectivos de los pueblos indígenas. De igual manera, Miriam Roquel Chávez, actual Ministra de Trabajo y Previsión Social, es un ejemplo de que el liderazgo indígena también puede y debe estar presente en los espacios del poder ejecutivo.
+
+Sin embargo, el camino para que más mujeres indígenas lleguemos a estos puestos es largo y está lleno de obstáculos. La discriminación, el racismo, el machismo, la falta de oportunidades educativas y políticas, así como las violencias estructurales y simbólicas, son solo algunas de las barreras que seguimos enfrentando.
+
+Es fundamental reconocer a quienes ya han roto estas brechas: Thelma Cabrera, una valiente líder campesina maya mam que se atrevió a postularse para la presidencia de Guatemala, enfrentando todos los obstáculos que el sistema le puso en el camino. Lucía Ixchíu, Neida Solis y María Guarchaj, son algunas de las activistas y periodistas mayas que se han convertido en voces firmes en la lucha contra la violencia estatal y la defensa de nuestros territorios. Gladys Tzul Tzul, socióloga, ha puesto en el centro de la conversación el poder de los sistemas de gobierno indígena, mostrándolos como formas válidas y necesarias de autonomía.
+
+A esta lista se suman mujeres como: María Jacinta Xón Riquiac, antropóloga y defensora de los derechos culturales y lingüísticos; Otilia Lux de Cotí, la primera mujer indígena en ocupar el cargo de Ministra de Cultura y Deportes y ex relatora de Naciones Unidas; y Paula Nicho Cúmez, una artista maya kaqchikel que ha ganado reconocimiento internacional por retratar la cosmovisión indígena y el papel de la mujer en su arte.
+
+También es importante destacar a figuras como Edna Figueroa Cuc, Reina Indígena de Abya Yala, y Arly Paola Cholotío, la actual Rab’in Ajaw. Su liderazgo no solo representa a las juventudes indígenas, también desafía las narrativas estéticas y políticas impuestas desde la colonia, demostrando que la belleza también es resistencia. Portar la indumentaria, hablar nuestra lengua y caminar con dignidad es sin duda, una forma de hacer política.
+
+Todas ellas son increíblemente valientes, pues desafiar los estigmas y las barreras sociales que enfrentan por ser mujeres y, aún más, por ser indígenas, requiere una fortaleza inmensa. No solo luchan contra estructuras de poder coloniales, también contra prejuicios profundamente arraigados en nuestra sociedad, que aún nos estereotipan como subordinadas, exóticas o simplemente ausentes del mapa político.
+
+Es evidente que la política en Guatemala sigue siendo un terreno dominado en su mayoría por hombres. En las elecciones generales de 2023, las mujeres solo lograron obtener el 13% de los cargos electos, y en el Congreso apenas el 20% de los curules están ocupados por mujeres. De este pequeño grupo, solo una mujer es indígena, lo que pone de manifiesto una profunda desigualdad en la representación política, evidenciando que la mayoría en ese reducido porcentaje son mujeres mestizas; esto demuestra que la representación indígena no solo es escasa, también es selectiva.
+
+Hoy, desde mi voz y experiencia, invito a más mujeres indígenas a creer que sí podemos tomar decisiones, construir un futuro y transformar nuestras realidades. No dejemos que nos digan que esto no es para nosotras. Porque sí lo es. Merecemos decidir, ocupar espacios y ser escuchadas. Nuestras voces no vienen solas, traen consigo la memoria de nuestras ancestras, la sabiduría de nuestras abuelas y la fuerza de nuestras hermanas que caminan a nuestro lado.

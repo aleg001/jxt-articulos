@@ -1,0 +1,23 @@
+---
+title: "De los 500 años a los 160 días de resistencia"
+author: "Kevin Segura Carrillo"
+date: 2024-08-08
+---
+
+La historia de los pueblos indígenas en Guatemala es una narrativa de resistencia, lucha y perseverancia que se remonta a más de 500 años. Desde la llegada de los colonizadores españoles en el siglo XVI, los pueblos originarios han enfrentado una serie de desafíos que han puesto a prueba su supervivencia y cultura. La colonización trajo consigo la imposición de un nuevo orden social, económico y político que despojó a las comunidades indígenas de sus tierras, derechos y autonomía.
+
+A pesar de la opresión colonial, los pueblos indígenas encontraron formas de resistir y preservar su identidad. La historia de resistencia se intensificó durante el periodo de la independencia y las posteriores dictaduras militares del siglo XX, momentos en los cuales las comunidades continuaron luchando por sus derechos y reconocimiento.
+
+En los últimos años, Guatemala ha experimentado un deterioro democrático significativo, caracterizado por la corrupción, la impunidad y la violación de derechos humanos. La resistencia que los pueblos indígenas propiciaron se trasladó contemporáneamente a 106 días en el 2023. Una preponderante urgencia por demandar justicia, transparencia y el respeto a sus derechos y a los de la población en general; principalmente, los derechos relacionados con la democracia en el proceso electoral.
+
+Estas manifestaciones que expresaron una trinchera de democracia, también reavivaron el sentimiento de lucha por aquello que se ha limitado durante tantos años: el desarrollo. Una falta grave por parte del Estado hacia aquellos sectores que han sido segregados y marginados de la vida pública como los pueblos indígenas, pero también los jóvenes, las mujeres, las personas de la comunidad LGTBIQ+ y otros que por sus condiciones han sido particularmente afectados por esas dinámicas.
+
+Pero además, esos 106 días cambiaron la historia de un país que prefirió guardar silencio ante las dinámicas de precarización del propio Estado. Rompió incluso con el paradigma del centro de manifestación de descontento social que hasta esa época había sido las plazas centrales. Movilizó a sectores urbanos y periurbanos a tomar las calles, avenidas y los bulevares. No solo como una expresión de descontento, sino de esperanza, haciendo uso de algo que solo en sectores privilegiados se ha visto: la toma del espacio público como muestra de manifestación cultural, social y política.
+
+Esos 106 días despertaron un movimiento de descentralización de la acción colectiva para tomar las calles. Pero también descentralizó las demandas sociales, ya no solo era la lucha por la democracia, sino también un espacio para erigir un momento histórico que hiciera eco para reforzar las luchas para un buen vivir. Es claro que las jornadas de agosto del 2023 son consecuencia de 500 años de resistencia, resistencia que ha permeado ahora en diversos sectores sociales que por una u otra razón habían sido desplazados de la vida pública y ahora están organizándose para incidir en la cotidianidad de la política.
+
+El futuro de la resistencia indígena en Guatemala dependerá en gran medida de la capacidad de las comunidades para seguir articulando sus demandas y fortaleciendo sus redes de apoyo. La democratización del país pasa por el reconocimiento y el respeto pleno de los derechos de los pueblos indígenas, incluyendo su participación en los procesos de toma de decisiones que afectan sus vidas y territorios.
+
+Sin embargo, estas luchas luego de 500 años demandan repensar el futuro. Ahora más que nunca las demandas son vitales. Hacer puentes, carreteras, fortalecer el sector agrícola, mejorar la salud son importantes, pero aun más relevante sería encauzar dos demandas como pilares. Primero, repensar la educación con un enfoque inclusivo y pertinente desde la mirada interseccional de las culturas. Segundo,  desarrollar un modelo de cultura como eje transversal de acción política, que comprenda que la cultura, el patrimonio y el deporte son esenciales para la construcción y consolidación de la paz, pero principalmente para regenerar el tejido social.
+
+En estos días, el Palacio Nacional de la Cultura ha anunciado una acción simbólica importante para la época en la que vivimos. Se izará la bandera de los pueblos en el frontispicio del Palacio, al lado de la nacional; un claro ejemplo que en lo simbólico hay inmerso un discurso político. “Serán, serán otros 500 años más, los que vienen, pero con un cambio de aires diferentes, pues vienen con voluntad de reivindicar el futuro del pueblo de Cuauhtemallan”.

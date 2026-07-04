@@ -1,0 +1,19 @@
+---
+title: "Independencia Judicial en riesgo"
+author: "María Alejandra De León Quiñonez"
+date: 2021-10-14
+---
+
+La independencia judicial en Guatemala y las disposiciones constitucionales relativas a la independencia de los jueces y tribunales de justicia se ven reflejados, en el marco constitucional, artículo 203: Independencia del Organismo Judicial y Potestad para Juzgar, establece que los jueces tienen exclusividad absoluta y la potestad de juzgar y promover la ejecución de lo juzgado, además de promover la ejecución de todo caso juzgado. Sin embargo, actualmente es tan solo una utopía, puesto que, a pesar de la existencia de la división de poderes, el Poder Ejecutivo también tiene dicha atribución.
+
+La Constitución considera la independencia judicial como un valor fundamental del orden jurídico-político del Estado, una pieza clave para la consolidación del Estado Constitucional de Derecho, que asegure el imperio de la ley como expresión de la voluntad popular. No obstante, los poderes estatales no han respetado la independencia del juez. La falta de independencia judicial atenta contra la imparcialidad, constituyendo una grave falta contra las partes, prohibiendo la tutela judicial efectiva y el debido proceso.
+
+En el contexto actual guatemalteco, los mecanismos de nombramiento de los jueces han dejado de tener imparcialidad, siendo una oportunidad para que políticos y personas de interés influyan en las comisiones de postulación y el Congreso de la República, atentando contra los principios como la transparencia, excelencia, objetividad y publicidad. Por lo que no cumplen con la función constitucional, sino que responden a intereses particulares.
+
+Por otra parte, existe una falta de carrera judicial, impactando de manera negativa en la independencia de los jueces, puesto que es solo aplicada en algunos casos. Existe poca estabilidad, la evaluación de su desempeño no se hace con objetividad, hay movimientos constantes, inexistencia de evaluaciones periódicas de su desempeño, capacidades y experiencia.
+
+Actualmente el organismo judicial tiene una limitada independencia económica que no le permite cubrir todas sus necesidades, quedando condicionada a la voluntad del ejecutivo y legislativo. No poseen los fondos necesarios para que los administradores de justicia cumplan eficazmente sus obligaciones. La independencia de la justicia es un rubro importante para el país, a través de ella se logra la paz y un verdadero Estado de Derecho, utilizada como un instrumento del progreso, que responda a las necesidades y expectativas de la colectividad.
+
+Actualmente se presentan debilidades identificadas en los procesos de elección de jueces y magistrados, confirmando la crisis del modelo de nombramientos. A pesar de los intentos para reformar el proceso, éstos no han surtido efecto. Es preponderante tener un proceso amplio que involucre a todos los sectores interesados, respetando los estándares nacionales e internacionales para el nombramiento adecuado de jueces y magistrados. Un ejemplo claro es el proceso de selección de jueces de altas cortes que son utilizados en beneficio de políticos y la impunidad de sus actos, donde muchas autoridades estatales influyen en los procesos de designación de magistrados y jueces afectando de gran manera la institucionalidad y el Estado de Derecho.
+
+En conclusión, es deber tanto de los gobernantes como los gobernados velar por la independencia judicial, tomando en cuenta la relevancia de una justicia imparcial, expedita, sin influencias, y que por supuesto vele por los intereses de la población. Hay una crisis en el Sistema de Justicia que no permite un verdadero Estado de Derecho y que no responde a las necesidades y expectativas comunes, por lo que es necesario fomentar la independencia y democratización de la función judicial en relación con el fortalecimiento de la imparcialidad a través de reformas en los procesos. ¡Guatemala, reacciona ya!

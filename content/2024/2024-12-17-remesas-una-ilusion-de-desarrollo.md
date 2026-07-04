@@ -1,0 +1,19 @@
+---
+title: "Remesas: una ilusión de desarrollo"
+author: "Ana Catarina Ceto Sánchez"
+date: 2024-12-17
+---
+
+Estamos a días de que se consolide el cálculo de las cuentas nacionales para el ejercicio del año 2024. Lo que indica que muy probablemente empiecen a contrastar la proporción de las remesas recibidas con relación al Producto Interno Bruto e inicie la discusión de sí es el motor de la economía del país o de su papel como principal fuente de ingresos para muchos guatemaltecos. Así que, creo que es importante que analicemos sí realmente las remesas tienen un impacto en el desarrollo.
+
+La teoría clásica concibe el desarrollo desde un enfoque acumulativo, medido por la posesión de tierras y salarios elevados. A través del tiempo el concepto evolucionó hacia la superación de la pobreza y el acceso a servicios básicos como salud, educación y vivienda. Los organismos internacionales han incluido nociones como el desarrollo sostenible, enfatizando el uso responsable de los recursos naturales para las generaciones futuras. El desarrollo humano, que considera al crecimiento individual como base para el progreso colectivo. Y, la perspectiva del desarrollo local, que valora las visiones propias de las comunidades y el papel de los actores locales en la generación de mejores condiciones de vida en territorios marcados por la ausencia estatal. Por tanto, el desarrollo es un concepto polifacético que incluye diversas dimensiones integradas por interacciones económicas, sociales y culturales.
+
+Entonces, ¿son las remesas un factor importante para el desarrollo? Antes de responder, es importante caracterizar a las personas que emigran, las y los guatemaltecos, una fracción importante de jóvenes, impulsados por la búsqueda de obtener mejores ingresos para lograr financiarles una mejor calidad de vida a sus familias y quizás lograr construir una vivienda digna abandonan el país con destino en la mayoría de los casos hacia Estados Unidos.
+
+Desde un punto de vista netamente acumulativo, la respuesta a la interrogante intuitivamente sería SÍ, pues al realizar el cambio del dólar al quetzal existe un potencial diferenciador que resulta en una mayor fuente de ingresos. Sin embargo, es importante que se considere el análisis de las deudas que adquieren los emigrantes para llegar a su destino, la mayoría destina sus primeras remesas al pago de dicha deuda. Consecuentemente estas transferencias suplen las necesidades que el contexto previo impedía, entiéndase la alimentación, vestuario, salud, educación y vivienda de sus familias, incluso en ciertas localidades las remesas financian proyectos comunitarios (construcción de iglesias, calles, etc.).
+
+La respuesta. No resulta tan simple, por un lado, las remesas al propiciar la satisfacción de ciertas necesidades se pueden considerar como un mecanismo para lograr elevar el nivel de vida inicial, pero pensemos a largo plazo, estas generan una dependencia que, al retornar los emigrantes, para muchos resulta difícil mantener las condiciones de cuando enviaban remesas
+
+Así pues, aparece la idea de la intervención estatal como instrumento para lograr el uso “productivo”, de estas remesas, organismos internacionales han formulado manuales para potencializar su uso y Guatemala ha formulado diversas iniciativas como la Política de Desarrollo Social 2010-2018, que pretendía crear fondos comunitarios; la reciente Política Pública de Atención a la Persona Migrante; y la iniciativa de Ley 5640, no obstante, ninguna establece las líneas de cómo lograrán ese uso productivo.
+
+Esto refleja el reconocimiento del Estado en su incapacidad de satisfacer las necesidades de sus habitantes y simultáneamente pretende dirigir el uso de sus transferencias. Más que legislar sobre las remesas se debería propiciar un contexto dónde pueda potencializarse su productividad y sean una herramienta para lograr el desarrollo sostenible y no un medio para apalear necesidades.
