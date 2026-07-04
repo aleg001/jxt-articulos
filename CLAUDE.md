@@ -15,6 +15,13 @@ node scripts/sync.mjs <archivo.docx>   # un solo artículo
 
 Después de convertir: revisar el resumen y los errores reportados, mostrar al usuario qué se convirtió, y **commitear y pushear** (eso es lo que publica). Borrar de `inbox/` los archivos ya procesados.
 
+### Pedido típico: "ejecuta la carpeta 2026" / "agrega los artículos nuevos"
+
+1. Localizar la carpeta o zip descargado de Drive: la ruta que dé el usuario, o buscar en la raíz del repo, en `inbox/`, y lo más reciente en `~/Downloads`.
+2. Correr `node scripts/sync.mjs <ruta>`. Como es incremental, no importa que la carpeta traiga artículos viejos mezclados: salen como "ya existían" y no se tocan.
+3. El año de cada artículo sale de la **fecha en el nombre del archivo**, no de la carpeta de Drive donde estaba (un docx fechado `09-01-26` guardado en la carpeta 2025 va a `content/2026/`).
+4. Mostrar el resumen (cuántos nuevos, qué errores), y tras el visto bueno del usuario, commitear y pushear. Borrar después la carpeta/zip descargado si quedó dentro del repo.
+
 ## Convención de los .docx
 
 - Nombre del archivo: `DD-MM-AA Autor.docx` (año de 2 o 4 dígitos, ej. `01-07-21 David Chávez.docx`). La fecha y el autor del frontmatter salen **del nombre del archivo**.
@@ -39,4 +46,4 @@ Pendientes conocidos: dos artículos coescritos conservan ambos nombres en un so
 - **Zips de Drive: usar `ditto -x -k`, nunca `unzip`** — los nombres traen UTF-8 sin marcar y `unzip` falla con "Illegal byte sequence". El script ya lo hace.
 - Esta carpeta vive en iCloud Drive: `node_modules` es un symlink a `node_modules.nosync` para que iCloud no sincronice las dependencias. Si falta, recrear con `ln -sfn node_modules.nosync node_modules && npm install`.
 - Archivos `~$*.docx` son temporales de Word; el script los ignora.
-- `articulos.zip` (fuente histórica) e `inbox/` están gitignorados: al repo solo van `content/`, `index.json`, `scripts/` y estos archivos de configuración.
+- Los `.zip` e `inbox/` están gitignorados: al repo solo van `content/`, `index.json`, `scripts/` y estos archivos de configuración. La fuente de verdad de los .docx es el Drive de la organización, no este repo.

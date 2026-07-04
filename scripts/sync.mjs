@@ -153,6 +153,15 @@ if (await exists(contentDir)) {
       errores.push(`${relative(repoRoot, file)} — frontmatter incompleto, fuera del índice`)
       continue
     }
+    // Extracto para meta descriptions y tarjetas del sitio.
+    const plain = raw
+      .replace(FM_RE, '')
+      .replace(/[#*_>\\[\]()`]/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim()
+    const excerpt =
+      plain.length <= 180 ? plain : `${plain.slice(0, 180).replace(/\s+\S*$/, '')}…`
+
     index.push({
       slug: basename(file, '.md'),
       title,
@@ -161,6 +170,7 @@ if (await exists(contentDir)) {
       date,
       year: Number(date.slice(0, 4)),
       path: relative(repoRoot, file),
+      excerpt,
     })
   }
 }
