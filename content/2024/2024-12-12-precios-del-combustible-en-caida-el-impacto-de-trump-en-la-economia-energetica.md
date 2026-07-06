@@ -1,6 +1,6 @@
 ---
 title: "Precios del Combustible en Caída: El Impacto de Trump en la Economía Energética"
-author: "Victor Enrique Negreros Pacaya"
+author: "Víctor Enrique Negreros Pacaya"
 date: 2024-12-12
 ---
 

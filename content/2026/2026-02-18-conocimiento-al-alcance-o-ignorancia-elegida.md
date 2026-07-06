@@ -1,0 +1,15 @@
+---
+title: "¿Conocimiento al alcance o ignorancia elegida?"
+author: "Lidia Virginia Ortega Tablas"
+date: 2026-02-18
+---
+
+Hoy vivimos en la era del conocimiento, una época en la que la información está literalmente al alcance de todos. Basta con ver un vídeo, hacer una rápida búsqueda en internet o incluso formular una sola pregunta a la inteligencia artificial para acceder a datos, ideas y respuestas de todo tipo. Sin embargo, resulta inquietante pensar que, a pesar de esta facilidad, muchos optan por permanecer en la ignorancia. ¿Es el acceso ilimitado al conocimiento suficiente para evitar caer en el desconocimiento?
+
+Hace solo unos años, encontrar información era una tarea mucho más ardua. Ahora, con un simple clic o una frase bien dictada, obtenemos respuestas inmediatas. Pero esta rapidez plantea una pregunta fundamental: ¿nuestra capacidad de adquirir conocimiento está al mismo nivel que nuestro criterio? No puedo hablar por todos, pero estoy convencida de que debemos aprender a tener criterio sobre la información que consumimos. Si aceptamos ciegamente todo lo que leemos, corremos el riesgo de caer en falsas noticias, datos descalificados o manipulados. Por eso, es esencial no olvidar la importancia de cuestionar, de verificar fuentes y de preguntarnos constantemente qué y cómo estamos leyendo.
+
+El criterio es una de las cualidades que, como seres humanos, debemos cultivar y estimular, tanto en las generaciones más jóvenes como en las más veteranas. Si no lo hacemos, podemos convertirnos en víctimas de la desinformación. Es muy fácil creer en todo lo que vemos en internet o en lo que nos dice la inteligencia artificial, pero necesitamos un mínimo de criterio para discernir la veracidad de la información que consumimos y replicamos. Aunque vivimos en una era donde el conocimiento está a un clic, también estamos expuestos a la vulnerabilidad de aceptar como verdad lo que podría ser una simple mentira.
+
+Por ello, no debemos tomar a la ligera la información que manejamos. Es fundamental desarrollar el criterio necesario para decidir cuándo y cómo utilizarla, así como para formular las preguntas adecuadas a herramientas tan potentes como la inteligencia artificial. No se trata de rechazar su uso, sino de aprender a emplearla como un recurso para saciar nuestra curiosidad y potenciar nuestro desarrollo, evitando convertirnos en sujetos pasivos arrastrados por la avalancha de datos que nos rodea día tras día.
+
+En definitiva, la facilidad para adquirir conocimiento no nos hace ignorantes; lo que nos define es la manera en que tratamos la información a la que tenemos acceso. En los últimos años, se ha hecho evidente que preferimos recibir la información ya procesada y adaptada a nuestros gustos, en lugar de profundizar o cuestionarla. Al final, esto nos convierte en ahorradores de energía intelectual, y personalmente me motiva a romper este patrón: a cuestionar, a curiosear y a crear nuevas fuentes de información. Porque solo así podremos aprovechar realmente el potencial de la era del conocimiento.

@@ -1,6 +1,6 @@
 ---
 title: "El regreso de Trump: ¿El fin del sueño guatemalteco o el inicio de una nueva era?"
-author: "Victor Enrique Negreros Pacaya"
+author: "Víctor Enrique Negreros Pacaya"
 date: 2024-11-19
 ---
 

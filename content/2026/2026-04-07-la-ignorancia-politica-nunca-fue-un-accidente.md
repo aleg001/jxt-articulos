@@ -1,0 +1,17 @@
+---
+title: "La ignorancia política nunca fue un accidente"
+author: "Mónica Ximena Argueta Tzic"
+date: 2026-04-07
+---
+
+Muchos adultos jóvenes que se enfrentarán a su primera votación aún no saben qué es el TSE o un empadronamiento, y eso no es coincidencia. En centros educativos no se enseña el sistema político de Guatemala con la importancia que amerita y luego la falta de interés perpetúa la ignorancia. En particular, la ignorancia política en la juventud es una condición que puede ser producida, mantenida y utilizada de forma progresiva y activa.
+
+En muchos casos, no se trata de que los jóvenes “no quieran saber”, sino que se han desarrollado en un entorno donde comprender resulta más difícil que simplemente consumir, repetir o ignorar cómo están acostumbrados. Para varios la política, que también es una palabra intimidante, dejó de ser un espacio de participación y se convirtió en un terreno ajeno, confuso o incluso irrelevante. Ese espacio que genera la falta de conocimiento es ocupado por alguien más, que impone opiniones a mentes vulnerables.
+
+Cuando no se conoce cómo funciona el poder, tampoco se puede reconocer cuándo estamos siendo afectados por el. El no saber nombres de instituciones o leyes a fin de cuentas no es importante, el riesgo llega cuando esos nombres representan acciones primordiales para identificar relaciones de causa y efecto entre decisiones públicas y la vida cotidiana. Esto crea ciudadanos que experimentan consecuencias, como el aumento del precio de la gasolina, condiciones de educación y falta de oportunidades, sin poder rastrear su origen. Esa desconexión debilita cualquier intento de cuestionamiento, porque no hay un objeto claro al cual dirigir las preguntas sin resolver.
+
+Desde esta perspectiva, la ignorancia deja de ser un accidente y se vuelve funcional. Un electorado que no analiza, que no contrasta información y que no comprende estructuras es más fácil de movilizar mediante emociones inmediatas como el miedo, el enojo o la esperanza vacía provocadas desde discursos estratégicos y malintencionados. La discusión pública se simplifica hasta el punto de convertirse en consignas y así es como las decisiones complejas se reducen a lealtades superficiales. No es necesario convencer a profundidad si basta con influir en la percepción. Mantener a las personas en una relación distante o superficial con la política implica reducir su capacidad de incidir a largo plazo. Si su primer contacto con lo político es la desinformación, la apatía o la saturación de información, es más probable que desarrollen una relación pasiva con el poder.
+
+Bajo un sistema que le falla a su gente, en muchos entornos el interesarse por la política puede ser visto como algo innecesario, conflictivo o incluso inútil. Esta percepción refuerza la idea de que es mejor no involucrarse, pero esa aparente neutralidad favorece la continuidad de estructuras que operan sin supervisión crítica. Un público poco informado resulta más manejable, más predecible y menos exigente, razón por la cual la ignorancia política ha funcionado como una herramienta indirecta de estabilidad para quienes ya ocupan posiciones de poder.
+
+Este problema es tanto educativo como estructural que se conecta con cómo se construyen los espacios de información, cómo se presentan los temas públicos y quién tiene acceso real a comprenderlos. En última instancia, una ciudadanía que no entiende el sistema en el que vive difícilmente puede transformarlo. Lamentablemente, para muchos esa dinámica no es un error sino una ventaja.

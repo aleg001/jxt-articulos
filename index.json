@@ -1,5 +1,785 @@
 [
   {
+    "slug": "2026-06-02-el-precio-de-recuperar-un-pais",
+    "title": "El precio de recuperar un país",
+    "author": "Jean Carlos Porras Marroquín",
+    "authorSlug": "jean-carlos-porras-marroquin",
+    "date": "2026-06-02",
+    "year": 2026,
+    "path": "content/2026/2026-06-02-el-precio-de-recuperar-un-pais.md",
+    "excerpt": "Para comenzar, la pregunta no es ¿cómo vamos a pagar el precio de recuperar el país?, sino ¿cuándo y qué tan caro será? El costo de recuperar el país mañana será mucho más alto…"
+  },
+  {
+    "slug": "2026-05-29-atender-acompanar-y-cuidar-como-un-asunto-publico",
+    "title": "Atender, acompañar y cuidar como un asunto público",
+    "author": "Alejandra Teleguario",
+    "authorSlug": "alejandra-teleguario",
+    "date": "2026-05-29",
+    "year": 2026,
+    "path": "content/2026/2026-05-29-atender-acompanar-y-cuidar-como-un-asunto-publico.md",
+    "excerpt": "Hablar de la salud de las mujeres en Guatemala no debería sentirse como una deuda pendiente con nosotras, pero lo sigue siendo. Este 28 de mayo, en el marco del Día de Acción por…"
+  },
+  {
+    "slug": "2026-05-29-cuando-las-negociaciones-estan-hechas-salen-a-la-luz",
+    "title": "Cuando las negociaciones están hechas, salen a la luz",
+    "author": "Gabriela Alejandra Sosa Díaz",
+    "authorSlug": "gabriela-alejandra-sosa-diaz",
+    "date": "2026-05-29",
+    "year": 2026,
+    "path": "content/2026/2026-05-29-cuando-las-negociaciones-estan-hechas-salen-a-la-luz.md",
+    "excerpt": "En el mundo empresarial, político y social, las negociaciones rara vez ocurren públicamente. Los acuerdos importantes se construyen en privado, entre intereses, necesidades y…"
+  },
+  {
+    "slug": "2026-05-28-los-consejos-comunitarios-de-desarrollo-instrumentalizacion-del-poder-local",
+    "title": "Los Consejos Comunitarios de Desarrollo: ¿instrumentalización del poder local?",
+    "author": "Gladis Maribel Sandoval Castellanos",
+    "authorSlug": "gladis-maribel-sandoval-castellanos",
+    "date": "2026-05-28",
+    "year": 2026,
+    "path": "content/2026/2026-05-28-los-consejos-comunitarios-de-desarrollo-instrumentalizacion-del-poder-local.md",
+    "excerpt": "Las relaciones de poder y las dinámicas sociales abren brecha a la reconfiguración del escenario político en los diferentes contextos, sin que fuese la excepción el final de los…"
+  },
+  {
+    "slug": "2026-05-26-de-la-de-formacion-politica",
+    "title": "De la (de)formación política",
+    "author": "Esteban Conde",
+    "authorSlug": "esteban-conde",
+    "date": "2026-05-26",
+    "year": 2026,
+    "path": "content/2026/2026-05-26-de-la-de-formacion-politica.md",
+    "excerpt": "Religión, fútbol y política son temas que no se hablan en la mesa por las susceptibilidades de quienes participan de las conversaciones. Cada uno con sus gustos, preferencias,…"
+  },
+  {
+    "slug": "2026-05-22-ser-estudiante-es",
+    "title": "Ser estudiante es…",
+    "author": "Kevin Segura Carrillo",
+    "authorSlug": "kevin-segura-carrillo",
+    "date": "2026-05-22",
+    "year": 2026,
+    "path": "content/2026/2026-05-22-ser-estudiante-es.md",
+    "excerpt": "“Ser universitario y de la San Carlos es un honor —decía mi abuela—. Vos podés vender en el mercado o barrer en una oficina, pero nunca dejés de pensar en abrirte camino hasta…"
+  },
+  {
+    "slug": "2026-05-21-china-y-su-afan-con-taiwan",
+    "title": "China y su afán con Taiwán",
+    "author": "Adolfo Cortezao Oquero",
+    "authorSlug": "adolfo-cortezao-oquero",
+    "date": "2026-05-21",
+    "year": 2026,
+    "path": "content/2026/2026-05-21-china-y-su-afan-con-taiwan.md",
+    "excerpt": "Si bien el afán de China con Taiwán viene desde 1949 postguerra civil China, como resultado del conflicto entre los comunistas liderados por Mao Zedong, y los nacionalistas del…"
+  },
+  {
+    "slug": "2026-05-20-crecer-siendo-mujer-en-guatemala-tambien-es-aprender-a-tener-miedo",
+    "title": "Crecer siendo mujer en Guatemala también es aprender a tener miedo",
+    "author": "Dania Verbena",
+    "authorSlug": "dania-verbena",
+    "date": "2026-05-20",
+    "year": 2026,
+    "path": "content/2026/2026-05-20-crecer-siendo-mujer-en-guatemala-tambien-es-aprender-a-tener-miedo.md",
+    "excerpt": "Quienes crecimos siendo niñas en Guatemala compartimos una lección temprana que jamás debió ser parte de nuestra historia: aprender a tener miedo. Miedo a caminar solas, a volver…"
+  },
+  {
+    "slug": "2026-05-19-entre-la-cooperacion-y-la-fragmentacion-el-reto-del-escudo-de-las-americas",
+    "title": "Entre la cooperación y la fragmentación: el reto del Escudo de las Américas",
+    "author": "Bryan Daniel Chacón Aldana",
+    "authorSlug": "bryan-daniel-chacon-aldana",
+    "date": "2026-05-19",
+    "year": 2026,
+    "path": "content/2026/2026-05-19-entre-la-cooperacion-y-la-fragmentacion-el-reto-del-escudo-de-las-americas.md",
+    "excerpt": "La reciente Cumbre del Escudo de las Américas se presenta como un intento por rearticular la seguridad en el continente en un contexto marcado por amenazas cada vez más complejas…"
+  },
+  {
+    "slug": "2026-05-16-que-papel-vamos-a-jugar-ante-las-elecciones-de-2027",
+    "title": "¿Qué papel vamos a jugar ante las elecciones de 2027?",
+    "author": "Esteban Conde",
+    "authorSlug": "esteban-conde",
+    "date": "2026-05-16",
+    "year": 2026,
+    "path": "content/2026/2026-05-16-que-papel-vamos-a-jugar-ante-las-elecciones-de-2027.md",
+    "excerpt": "Es frecuente cometer el error de entender la democracia como el mero acto de votar y después desencantarse con los resultados, porque no fueron lo que hubiéramos querido. A menudo…"
+  },
+  {
+    "slug": "2026-05-15-shock-energetico-guatemala-bajo-presion",
+    "title": "Shock energético: Guatemala bajo presión.",
+    "author": "Víctor Enrique Negreros Pacaya",
+    "authorSlug": "victor-enrique-negreros-pacaya",
+    "date": "2026-05-15",
+    "year": 2026,
+    "path": "content/2026/2026-05-15-shock-energetico-guatemala-bajo-presion.md",
+    "excerpt": "En el transcurso de mayo de 2026, el mercado energético mundial atraviesa una de sus fases más críticas debido a la inestabilidad sistémica en el Estrecho de Ormuz y la…"
+  },
+  {
+    "slug": "2026-05-14-dejale-la-politica-a-los-politicos",
+    "title": "Dejale la política a los políticos",
+    "author": "Cynthia Mileydi Cholotío Hernández",
+    "authorSlug": "cynthia-mileydi-cholotio-hernandez",
+    "date": "2026-05-14",
+    "year": 2026,
+    "path": "content/2026/2026-05-14-dejale-la-politica-a-los-politicos.md",
+    "excerpt": "Es una frase que he escuchado un par de veces; a veces en tono de broma, otras con molestia y muchas como una forma de cortar la conversación. Y seamos honestos, en Guatemala…"
+  },
+  {
+    "slug": "2026-05-12-cuatro-anos-despues-lo-que-nos-dejo-el-monstruo",
+    "title": "Cuatro años después: Lo que nos dejó el monstruo",
+    "author": "Pablo Giovanni Mendoza Monzón",
+    "authorSlug": "pablo-giovanni-mendoza-monzon",
+    "date": "2026-05-12",
+    "year": 2026,
+    "path": "content/2026/2026-05-12-cuatro-anos-despues-lo-que-nos-dejo-el-monstruo.md",
+    "excerpt": "“Actualmente, hay mucha incertidumbre sobre la elección de este cargo público. ¿Se mantendrá el status quo con Porras? ¿Se elegirá a alguien independiente e idóneo?”, preguntaba…"
+  },
+  {
+    "slug": "2026-05-08-mujeres-que-tejen-con-hilos-de-identidad",
+    "title": "Mujeres que tejen con hilos de identidad",
+    "author": "Mónica Ximena Argueta Tzic",
+    "authorSlug": "monica-ximena-argueta-tzic",
+    "date": "2026-05-08",
+    "year": 2026,
+    "path": "content/2026/2026-05-08-mujeres-que-tejen-con-hilos-de-identidad.md",
+    "excerpt": "En los mercados de Chichicastenango, en los patios de tierra de Santiago Atitlán, en las laderas neblinosas de Nebaj y muchos más sitios de Guatemala, miles de mujeres indígenas…"
+  },
+  {
+    "slug": "2026-05-07-la-muerte-de-la-democracia-el-nacer-del-nuevo-mundo-y-la-era-de-los-datos",
+    "title": "La muerte de la democracia, el nacer del nuevo mundo y la era de los datos",
+    "author": "Diego Méndez Moran",
+    "authorSlug": "diego-mendez-moran",
+    "date": "2026-05-07",
+    "year": 2026,
+    "path": "content/2026/2026-05-07-la-muerte-de-la-democracia-el-nacer-del-nuevo-mundo-y-la-era-de-los-datos.md",
+    "excerpt": "Guatemala ha sido víctima de ataques cibernéticos, recientemente, donde organizaciones educativas como la universidad Rafael Landívar y la Dirección General de Control de Armas y…"
+  },
+  {
+    "slug": "2026-05-06-la-lucha-silenciosa-de-cada-mujer-que-no-se-rinde",
+    "title": "La lucha silenciosa de cada mujer que no se rinde",
+    "author": "Fabynely Emerary Morales Sandoval",
+    "authorSlug": "fabynely-emerary-morales-sandoval",
+    "date": "2026-05-06",
+    "year": 2026,
+    "path": "content/2026/2026-05-06-la-lucha-silenciosa-de-cada-mujer-que-no-se-rinde.md",
+    "excerpt": "La lucha silenciosa de cada mujer que no se rinde. Aquellas que tienen a su cargo el hogar, desde un desayuno que se prepara muy temprano para sus hijos, llevarlos a la escuela y…"
+  },
+  {
+    "slug": "2026-05-05-aun-puede-salvarse-guatemala",
+    "title": "¿Aún puede salvarse Guatemala?",
+    "author": "Jorge Manuel Beteta Carías",
+    "authorSlug": "jorge-manuel-beteta-carias",
+    "date": "2026-05-05",
+    "year": 2026,
+    "path": "content/2026/2026-05-05-aun-puede-salvarse-guatemala.md",
+    "excerpt": "Esta columna no pretende ser más que, como su nombre lo indica, una columna de opinión. No pretendo arrogarme las calidades suficientes para realizar un estudio sociológico, menos…"
+  },
+  {
+    "slug": "2026-05-01-la-desigualdad-que-fluye-y-nadie-quiere-enfrentar",
+    "title": "La desigualdad que fluye y nadie quiere enfrentar",
+    "author": "Mercedes López",
+    "authorSlug": "mercedes-lopez",
+    "date": "2026-05-01",
+    "year": 2026,
+    "path": "content/2026/2026-05-01-la-desigualdad-que-fluye-y-nadie-quiere-enfrentar.md",
+    "excerpt": "La desigualdad que fluye y nadie quiere enfrentar En Guatemala, el acceso al agua sigue tratándose como un problema técnico, cuando en realidad es uno de los rostros más claros de…"
+  },
+  {
+    "slug": "2026-04-30-mazariegos-nunca-mas",
+    "title": "Mazariegos nunca más",
+    "author": "José Alexander Velásquez",
+    "authorSlug": "jose-alexander-velasquez",
+    "date": "2026-04-30",
+    "year": 2026,
+    "path": "content/2026/2026-04-30-mazariegos-nunca-mas.md",
+    "excerpt": "Walter Ramiro Mazariegos Biolis ha jugado cartas que pretenden consolidar su control sobre la Universidad de San Carlos hasta 2030, extendiendo un mandato que nació bajo la sombra…"
+  },
+  {
+    "slug": "2026-04-29-la-dificultad-de-opinar-y-participar-en-el-cambio-social",
+    "title": "La dificultad de opinar y participar en el cambio social",
+    "author": "Lidia Virginia Ortega Tablas",
+    "authorSlug": "lidia-virginia-ortega-tablas",
+    "date": "2026-04-29",
+    "year": 2026,
+    "path": "content/2026/2026-04-29-la-dificultad-de-opinar-y-participar-en-el-cambio-social.md",
+    "excerpt": "La dificultad de opinar y participar en el cambio social Emitir una opinión en la actualidad parece haberse convertido en una declaración de pertenencia a un bando, cuando en…"
+  },
+  {
+    "slug": "2026-04-28-participar-en-politica-se-ha-convertido-en-un-privilegio",
+    "title": "Participar en política se ha convertido en un privilegio",
+    "author": "Héctor David Calvillo Cifuentes",
+    "authorSlug": "hector-david-calvillo-cifuentes",
+    "date": "2026-04-28",
+    "year": 2026,
+    "path": "content/2026/2026-04-28-participar-en-politica-se-ha-convertido-en-un-privilegio.md",
+    "excerpt": "El participar en política se ha convertido en un privilegio, sé que puede parecer que no. De hecho, para muchos de nosotros que de alguna u otra forma somos partícipes activos en…"
+  },
+  {
+    "slug": "2026-04-24-entre-la-contencion-y-la-escalada",
+    "title": "Entre la contención y la escalada",
+    "author": "Bryan Daniel Chacón Aldana",
+    "authorSlug": "bryan-daniel-chacon-aldana",
+    "date": "2026-04-24",
+    "year": 2026,
+    "path": "content/2026/2026-04-24-entre-la-contencion-y-la-escalada.md",
+    "excerpt": "Estados Unidos e Irán en la nueva geopolítica global La relación entre Estados Unidos e Irán atraviesa uno de sus momentos más tensos en años recientes, en un contexto…"
+  },
+  {
+    "slug": "2026-04-23-desafios-en-la-representatividad-en-los-consejos-de-desarrollo",
+    "title": "Desafíos en la Representatividad en los Consejos de Desarrollo",
+    "author": "Abdi Tojil",
+    "authorSlug": "abdi-tojil",
+    "date": "2026-04-23",
+    "year": 2026,
+    "path": "content/2026/2026-04-23-desafios-en-la-representatividad-en-los-consejos-de-desarrollo.md",
+    "excerpt": "Hablar de participación ciudadana en Guatemala casi siempre suena bien en el papel y en cómo lo explican los funcionarios; “todo bien, todo se hace transparente, sus ideas,…"
+  },
+  {
+    "slug": "2026-04-22-la-infancia-que-el-estado-no-alcanza",
+    "title": "La infancia que el Estado no alcanza",
+    "author": "Dania Verbena",
+    "authorSlug": "dania-verbena",
+    "date": "2026-04-22",
+    "year": 2026,
+    "path": "content/2026/2026-04-22-la-infancia-que-el-estado-no-alcanza.md",
+    "excerpt": "Desnutrición y Desigualdad Estructural en el Corredor Seco: La infancia que el Estado no alcanza Hablar de desnutrición en Guatemala es hablar de desigualdad estructural. No es…"
+  },
+  {
+    "slug": "2026-04-21-independientes-de-espana-pero-conquistados-por-la-corrupcion",
+    "title": "Independientes de España, pero conquistados por la corrupción",
+    "author": "Herberth Apolinario Mejía Velásquez",
+    "authorSlug": "herberth-apolinario-mejia-velasquez",
+    "date": "2026-04-21",
+    "year": 2026,
+    "path": "content/2026/2026-04-21-independientes-de-espana-pero-conquistados-por-la-corrupcion.md",
+    "excerpt": "Guatemala se proclamó independiente de la antigua Capitanía General bajo dominio español. El 15 de septiembre de 1821 se marcó un antes y un después en la historia guatemalteca,…"
+  },
+  {
+    "slug": "2026-04-17-la-salud-publica-en-guatemala",
+    "title": "La salud pública en Guatemala",
+    "author": "Paola Bautista Liqué",
+    "authorSlug": "paola-bautista-lique",
+    "date": "2026-04-17",
+    "year": 2026,
+    "path": "content/2026/2026-04-17-la-salud-publica-en-guatemala.md",
+    "excerpt": "¿Por qué, si pago impuestos, no hay medicamentos en los hospitales? Esta pregunta se repite con frecuencia en las áreas de consulta externa de los hospitales. Me permito anticipar…"
+  },
+  {
+    "slug": "2026-04-16-el-despertar-de-los-buenos",
+    "title": "El despertar de los buenos",
+    "author": "Pablo Cifuentes",
+    "authorSlug": "pablo-cifuentes",
+    "date": "2026-04-16",
+    "year": 2026,
+    "path": "content/2026/2026-04-16-el-despertar-de-los-buenos.md",
+    "excerpt": "En Guatemala hemos normalizado la corrupción y, ¿sabes por qué Guatemala está estancada? No es porque los malos sean mayoría, es porque los buenos nos acostumbramos a la…"
+  },
+  {
+    "slug": "2026-04-15-la-usac-una-universidad-que-resiste",
+    "title": "La USAC: una universidad que resiste",
+    "author": "Jennifer Paniagua",
+    "authorSlug": "jennifer-paniagua",
+    "date": "2026-04-15",
+    "year": 2026,
+    "path": "content/2026/2026-04-15-la-usac-una-universidad-que-resiste.md",
+    "excerpt": "La Universidad de San Carlos de Guatemala no es únicamente un centro de estudios. Es un símbolo de pensamiento crítico, de resistencia y de construcción democrática. Sin embargo,…"
+  },
+  {
+    "slug": "2026-04-14-la-inflacion-que-se-come-el-futuro-de-las-familias-guatemaltecas",
+    "title": "La inflación que se come el futuro de las familias guatemaltecas",
+    "author": "Anallenci Bertita Muñoz Rivera",
+    "authorSlug": "anallenci-bertita-munoz-rivera",
+    "date": "2026-04-14",
+    "year": 2026,
+    "path": "content/2026/2026-04-14-la-inflacion-que-se-come-el-futuro-de-las-familias-guatemaltecas.md",
+    "excerpt": "Para cualquier guatemalteco que sale a trabajar todos los días, la economía dejó de ser un tema de expertos en televisión para convertirse en una batalla diaria frente al…"
+  },
+  {
+    "slug": "2026-04-10-el-congreso-mas-caro",
+    "title": "El Congreso más caro",
+    "author": "Ingrid Julissa De La Paz Olivarez",
+    "authorSlug": "ingrid-julissa-de-la-paz-olivarez",
+    "date": "2026-04-10",
+    "year": 2026,
+    "path": "content/2026/2026-04-10-el-congreso-mas-caro.md",
+    "excerpt": "Por momentos, el problema del Congreso de la República de Guatemala no es que produzca pocas leyes, sino que produce poca confianza y eso es mucho más grave. desde 2024 hasta hoy,…"
+  },
+  {
+    "slug": "2026-04-09-el-pais-del-mientras-tanto",
+    "title": "El país del “mientras tanto”",
+    "author": "Ana Gabriela Solorzano Sanchez",
+    "authorSlug": "ana-gabriela-solorzano-sanchez",
+    "date": "2026-04-09",
+    "year": 2026,
+    "path": "content/2026/2026-04-09-el-pais-del-mientras-tanto.md",
+    "excerpt": "En Guatemala, muchas cosas parecen existir en estado provisional. Las soluciones son temporales, las decisiones se postergan y los problemas se administran sin resolverse del…"
+  },
+  {
+    "slug": "2026-04-08-la-ideologia-no-llena-platos",
+    "title": "La ideología no llena platos",
+    "author": "Meybel Amaya",
+    "authorSlug": "meybel-amaya",
+    "date": "2026-04-08",
+    "year": 2026,
+    "path": "content/2026/2026-04-08-la-ideologia-no-llena-platos.md",
+    "excerpt": "En Guatemala, después del fin del conflicto armado, la ideología perdió centralidad en el debate político. Los votantes, hastiados de una lucha que dejó miles de muertos, se…"
+  },
+  {
+    "slug": "2026-04-07-la-ignorancia-politica-nunca-fue-un-accidente",
+    "title": "La ignorancia política nunca fue un accidente",
+    "author": "Mónica Ximena Argueta Tzic",
+    "authorSlug": "monica-ximena-argueta-tzic",
+    "date": "2026-04-07",
+    "year": 2026,
+    "path": "content/2026/2026-04-07-la-ignorancia-politica-nunca-fue-un-accidente.md",
+    "excerpt": "Muchos adultos jóvenes que se enfrentarán a su primera votación aún no saben qué es el TSE o un empadronamiento, y eso no es coincidencia. En centros educativos no se enseña el…"
+  },
+  {
+    "slug": "2026-04-03-el-aburrimiento-como-herramienta",
+    "title": "El aburrimiento como herramienta",
+    "author": "Sara Orozco",
+    "authorSlug": "sara-orozco",
+    "date": "2026-04-03",
+    "year": 2026,
+    "path": "content/2026/2026-04-03-el-aburrimiento-como-herramienta.md",
+    "excerpt": "Cuando se habla de los impactos del ser humano en la naturaleza, uno de los principales suele ser la generación de cambios acelerados en los ecosistemas, que sobrepasa la…"
+  },
+  {
+    "slug": "2026-04-02-el-poder-tambien-habla-kaqchiquel",
+    "title": "El poder también habla Kaqchiquel",
+    "author": "Jennifer Paniagua",
+    "authorSlug": "jennifer-paniagua",
+    "date": "2026-04-02",
+    "year": 2026,
+    "path": "content/2026/2026-04-02-el-poder-tambien-habla-kaqchiquel.md",
+    "excerpt": "“Ser mujer indígena no es una desventaja como lo han querido hacer ver, es una fuerza política y es transformadora e imparable” En un país donde históricamente se ha decidido…"
+  },
+  {
+    "slug": "2026-04-01-pequenas-dosis-de-transparencia",
+    "title": "Pequeñas dosis de transparencia",
+    "author": "Katerin Gabriela Macario Pac",
+    "authorSlug": "katerin-gabriela-macario-pac",
+    "date": "2026-04-01",
+    "year": 2026,
+    "path": "content/2026/2026-04-01-pequenas-dosis-de-transparencia.md",
+    "excerpt": "Recuerdo que, durante mi primer año de universidad, para una clase debíamos desarrollar un proyecto social para alguna institución, era un trabajo de investigación y…"
+  },
+  {
+    "slug": "2026-03-31-los-extremos-nos-estan-hundiendo",
+    "title": "Los extremos nos están hundiendo",
+    "author": "Meylin Guisela Mendizábal",
+    "authorSlug": "meylin-guisela-mendizabal",
+    "date": "2026-03-31",
+    "year": 2026,
+    "path": "content/2026/2026-03-31-los-extremos-nos-estan-hundiendo.md",
+    "excerpt": "He pasado un tiempo sin escribir en este espacio. Durante ese período reflexioné y reuní ideas que hoy, finalmente, me animo a compartir. Con frecuencia escuchamos cómo se culpa…"
+  },
+  {
+    "slug": "2026-03-27-el-costo-de-la-desinformacion",
+    "title": "El costo de la desinformación",
+    "author": "Ana Gabriela Solorzano Sanchez",
+    "authorSlug": "ana-gabriela-solorzano-sanchez",
+    "date": "2026-03-27",
+    "year": 2026,
+    "path": "content/2026/2026-03-27-el-costo-de-la-desinformacion.md",
+    "excerpt": "En Guatemala, la desinformación no es un accidente: es un hábito. Vive en los grupos de WhatsApp familiares, en páginas de Facebook con miles de seguidores, e incluso en discursos…"
+  },
+  {
+    "slug": "2026-03-26-por-que-debatir",
+    "title": "¿Por qué debatir?",
+    "author": "Jose Cossich",
+    "authorSlug": "jose-cossich",
+    "date": "2026-03-26",
+    "year": 2026,
+    "path": "content/2026/2026-03-26-por-que-debatir.md",
+    "excerpt": "Todos odiamos que nos mientan. Sostenemos amistades y tomamos decisiones, como qué estudiar, dónde trabajar, qué pensar, a partir de la creencia de que conocemos y nos cuentan la…"
+  },
+  {
+    "slug": "2026-03-25-la-violencia-de-genero-entre-la-expansion-digital-y-la-regulacion-del-espacio-publico",
+    "title": "La Violencia De Género Entre La Expansión Digital Y La Regulación Del Espacio Público.",
+    "author": "Katherine Orozco",
+    "authorSlug": "katherine-orozco",
+    "date": "2026-03-25",
+    "year": 2026,
+    "path": "content/2026/2026-03-25-la-violencia-de-genero-entre-la-expansion-digital-y-la-regulacion-del-espacio-publico.md",
+    "excerpt": "Resumen: La violencia de género facilitada por la tecnología constituye uno de los desafíos más complejos y urgentes en el contexto contemporáneo guatemalteco en especial para…"
+  },
+  {
+    "slug": "2026-03-24-que-tan-privilegiados-somos-realmente",
+    "title": "¿Qué tan privilegiados somos realmente?",
+    "author": "Marcela Blanco",
+    "authorSlug": "marcela-blanco",
+    "date": "2026-03-24",
+    "year": 2026,
+    "path": "content/2026/2026-03-24-que-tan-privilegiados-somos-realmente.md",
+    "excerpt": "Siempre voy a recordar a las y los catedráticos de mi universidad que me ayudaron a construir mi ideología política. Soy egresada de la Universidad Rafael Landívar, una…"
+  },
+  {
+    "slug": "2026-03-20-existir-tambien-es-hacer-politica",
+    "title": "Existir, También Es Hacer Política",
+    "author": "Jennifer Paniagua",
+    "authorSlug": "jennifer-paniagua",
+    "date": "2026-03-20",
+    "year": 2026,
+    "path": "content/2026/2026-03-20-existir-tambien-es-hacer-politica.md",
+    "excerpt": "En Guatemala, hablar de participación política no es únicamente referirse a elecciones o a cargos públicos. Para muchas mujeres de la diversidad sexual, existir ya es un acto…"
+  },
+  {
+    "slug": "2026-03-19-la-trampa-de-la-juventud-carreras-sin-alma-en-un-mercado-sin-espacios",
+    "title": "La Trampa de la Juventud: Carreras sin alma en un mercado sin espacios.",
+    "author": "Jazmín García",
+    "authorSlug": "jazmin-garcia",
+    "date": "2026-03-19",
+    "year": 2026,
+    "path": "content/2026/2026-03-19-la-trampa-de-la-juventud-carreras-sin-alma-en-un-mercado-sin-espacios.md",
+    "excerpt": "En Guatemala, el acto de graduarse de la universidad ha dejado de ser un símbolo de realización personal para convertirse en un simple mecanismo de supervivencia. Lo que debería…"
+  },
+  {
+    "slug": "2026-03-18-la-explotacion-mundialista",
+    "title": "La Explotación Mundialista",
+    "author": "Angel Gerardo Medina Hernández",
+    "authorSlug": "angel-gerardo-medina-hernandez",
+    "date": "2026-03-18",
+    "year": 2026,
+    "path": "content/2026/2026-03-18-la-explotacion-mundialista.md",
+    "excerpt": "El año 2026 es muy esperado para muchos aficionados del fútbol soccer a nivel global, ya que se llevará a cabo el Mundial de Fútbol, en esta ocasión, los encuentros deportivos se…"
+  },
+  {
+    "slug": "2026-03-17-entre-el-estancamiento-y-la-crisis-queda-la-universidad",
+    "title": "Entre el estancamiento y la crisis, queda la universidad",
+    "author": "Kevin Segura Carrillo",
+    "authorSlug": "kevin-segura-carrillo",
+    "date": "2026-03-17",
+    "year": 2026,
+    "path": "content/2026/2026-03-17-entre-el-estancamiento-y-la-crisis-queda-la-universidad.md",
+    "excerpt": "Soy de la universidad pública. De esa que mis abuelos anhelaban porque eran combativos, porque lucharon para que la educación superior fuera un derecho y no un privilegio de…"
+  },
+  {
+    "slug": "2026-03-13-el-peso-de-la-toga-justicia-hambre-y-el-futuro-de-guatemala-en-2026",
+    "title": "El Peso de la Toga: Justicia, Hambre y el Futuro de Guatemala en 2026",
+    "author": "Anallenci Bertita Muñoz Rivera",
+    "authorSlug": "anallenci-bertita-munoz-rivera",
+    "date": "2026-03-13",
+    "year": 2026,
+    "path": "content/2026/2026-03-13-el-peso-de-la-toga-justicia-hambre-y-el-futuro-de-guatemala-en-2026.md",
+    "excerpt": "El despertar de una nación en la encrucijada Guatemala ha llegado a marzo de 2026 cargando sobre sus hombros décadas de promesas incumplidas y una estructura institucional que…"
+  },
+  {
+    "slug": "2026-03-12-el-clientelismo-politico-y-la-erosion-de-la-democracia-guatemalteca",
+    "title": "El clientelismo político y la erosión de la democracia guatemalteca",
+    "author": "Osmar David Gamboa Escobar",
+    "authorSlug": "osmar-david-gamboa-escobar",
+    "date": "2026-03-12",
+    "year": 2026,
+    "path": "content/2026/2026-03-12-el-clientelismo-politico-y-la-erosion-de-la-democracia-guatemalteca.md",
+    "excerpt": "En Guatemala, los procesos electorales suelen repetirse como un ciclo de promesas, mítines y estrategias que desaparecen tras las votaciones. La baja participación ciudadana,…"
+  },
+  {
+    "slug": "2026-03-11-elecciones-de-rector-seis-jovenes-valientes-vs-un-sistema-cooptado-por-decadas",
+    "title": "Elecciones de Rector: Seis jóvenes valientes vs un sistema cooptado por décadas.",
+    "author": "Jennifer Alejandra de la Cruz Lemus",
+    "authorSlug": "jennifer-alejandra-de-la-cruz-lemus",
+    "date": "2026-03-11",
+    "year": 2026,
+    "path": "content/2026/2026-03-11-elecciones-de-rector-seis-jovenes-valientes-vs-un-sistema-cooptado-por-decadas.md",
+    "excerpt": "Las elecciones de cuerpos electorales se están llevando a cabo en las diversas facultades, teniendo un panorama sumamente prometedor, exceptuando la elección de la Facultad de…"
+  },
+  {
+    "slug": "2026-03-10-paz-que-paz",
+    "title": "¿Paz?, ¿qué paz?",
+    "author": "Andrés Alborná Montenegro",
+    "authorSlug": "andres-alborna-montenegro",
+    "date": "2026-03-10",
+    "year": 2026,
+    "path": "content/2026/2026-03-10-paz-que-paz.md",
+    "excerpt": "El sistema internacional contemporáneo está compuesto por organizaciones, empresas, Estados y otros actores; aunado a ello, coexisten procesos, reglas y normas que configuran el…"
+  },
+  {
+    "slug": "2026-03-06-guatemala-no-es-la-excepcion",
+    "title": "Guatemala no es la excepción",
+    "author": "Cynthia Mileydi Cholotío Hernández",
+    "authorSlug": "cynthia-mileydi-cholotio-hernandez",
+    "date": "2026-03-06",
+    "year": 2026,
+    "path": "content/2026/2026-03-06-guatemala-no-es-la-excepcion.md",
+    "excerpt": "Cada 8 de marzo vemos pañuelos morados, publicaciones con frases poderosas y comunicados tanto institucionales como estatales sobre igualdad. Pero en Guatemala, el 8M no es una…"
+  },
+  {
+    "slug": "2026-03-05-en-la-balanza-pesan-mas-los-conflictos-externos-o-las-batallas-internas",
+    "title": "En la balanza ¿Pesan más los conflictos externos o las batallas internas?",
+    "author": "Adriana Casasola",
+    "authorSlug": "adriana-casasola",
+    "date": "2026-03-05",
+    "year": 2026,
+    "path": "content/2026/2026-03-05-en-la-balanza-pesan-mas-los-conflictos-externos-o-las-batallas-internas.md",
+    "excerpt": "Existen tantas realidades como vidas, realidades que convergen y se impactan en miles de líneas temporales paralelas. Cuando se vive en un país como Guatemala, la realidad es que…"
+  },
+  {
+    "slug": "2026-03-04-carta-a-todas-las-mujeres-guatemaltecas",
+    "title": "Carta a todas las mujeres guatemaltecas",
+    "author": "Linda María Alay Medina",
+    "authorSlug": "linda-maria-alay-medina",
+    "date": "2026-03-04",
+    "year": 2026,
+    "path": "content/2026/2026-03-04-carta-a-todas-las-mujeres-guatemaltecas.md",
+    "excerpt": "Queridas mujeres guatemaltecas, Hoy no quiero escribir una columna de opinión. Hoy quiero escribirles una carta: una carta personal, pero que habla de algo colectivo. Nacer mujer…"
+  },
+  {
+    "slug": "2026-03-03-el-equilibrio-constitucional-en-disputa",
+    "title": "El equilibrio constitucional en disputa",
+    "author": "Alejandra Quiñonez",
+    "authorSlug": "alejandra-quinonez",
+    "date": "2026-03-03",
+    "year": 2026,
+    "path": "content/2026/2026-03-03-el-equilibrio-constitucional-en-disputa.md",
+    "excerpt": "María Alejandra De León Quiñonez Guatemala no enfrenta simples transiciones administrativas. Lo que se encuentra en curso es una redefinición crucial de los equilibrios…"
+  },
+  {
+    "slug": "2026-02-27-un-perfil-falso-una-victima-real",
+    "title": "Un perfil falso, una víctima real",
+    "author": "Lourdes Belen Reyes Acabal",
+    "authorSlug": "lourdes-belen-reyes-acabal",
+    "date": "2026-02-27",
+    "year": 2026,
+    "path": "content/2026/2026-02-27-un-perfil-falso-una-victima-real.md",
+    "excerpt": "Cada segundo martes de febrero, el mundo celebra el Día Internacional de Internet Segura, una fecha que en Guatemala suele llenarse de comunicados oficiales y actividades…"
+  },
+  {
+    "slug": "2026-02-26-entre-colas-vueltas-y-vuelva-manana-cuando-el-tramite-se-vuelve-castigo-para-la-ciudadania",
+    "title": "Entre colas, vueltas y “vuelva mañana”: cuando el trámite se vuelve castigo para la ciudadanía",
+    "author": "Luis Carlos Chávez Morales",
+    "authorSlug": "luis-carlos-chavez-morales",
+    "date": "2026-02-26",
+    "year": 2026,
+    "path": "content/2026/2026-02-26-entre-colas-vueltas-y-vuelva-manana-cuando-el-tramite-se-vuelve-castigo-para-la-ciudadania.md",
+    "excerpt": "En Guatemala, hablar de servicios públicos es, para muchos, sinónimo de resignación. Filas eternas, ventanillas cerradas sin aviso, trámites que no avanzan y respuestas de mal…"
+  },
+  {
+    "slug": "2026-02-25-el-pais-que-sostenemos-el-espacio-que-reclamamos",
+    "title": "El país que sostenemos, el espacio que reclamamos",
+    "author": "Mariana Michelle Callejas Ruiz",
+    "authorSlug": "mariana-michelle-callejas-ruiz",
+    "date": "2026-02-25",
+    "year": 2026,
+    "path": "content/2026/2026-02-25-el-pais-que-sostenemos-el-espacio-que-reclamamos.md",
+    "excerpt": "Universidades, iglesias, instituciones del Estado, empresas y comunidades: las mujeres impulsamos cada uno de esos espacios. Somos la fuerza que sostiene al país. Tenemos…"
+  },
+  {
+    "slug": "2026-02-24-si-las-tormentas-avisaran",
+    "title": "Si las tormentas avisaran",
+    "author": "Wesley Francisco Cocon",
+    "authorSlug": "wesley-francisco-cocon",
+    "date": "2026-02-24",
+    "year": 2026,
+    "path": "content/2026/2026-02-24-si-las-tormentas-avisaran.md",
+    "excerpt": "Muchos profesionales, políticos y estudiantes advirtieron, desde años anteriores, sobre la reconfiguración que atravesaría el Estado al comenzar 2026. Guatemala inicia el año en…"
+  },
+  {
+    "slug": "2026-02-20-la-democracia-detras-de-la-puerta-cerrada",
+    "title": "La democracia detrás de la puerta cerrada",
+    "author": "Alejandro Solórzano",
+    "authorSlug": "alejandro-solorzano",
+    "date": "2026-02-20",
+    "year": 2026,
+    "path": "content/2026/2026-02-20-la-democracia-detras-de-la-puerta-cerrada.md",
+    "excerpt": "Cuando se eligen autoridades en una democracia funcional, las puertas deberían abrirse más, no cerrarse. Sin embargo, durante las elecciones internas del Colegio de Abogados y…"
+  },
+  {
+    "slug": "2026-02-19-la-indiferencia-como-forma-moderna-de-complicidad",
+    "title": "La indiferencia como forma moderna de complicidad",
+    "author": "Vivian Reyes",
+    "authorSlug": "vivian-reyes",
+    "date": "2026-02-19",
+    "year": 2026,
+    "path": "content/2026/2026-02-19-la-indiferencia-como-forma-moderna-de-complicidad.md",
+    "excerpt": "Vivimos en una época en la que la información está en todas partes. A diario vemos noticias sobre corrupción, violencia, desigualdad, abuso de poder y crisis sociales que parecen…"
+  },
+  {
+    "slug": "2026-02-18-conocimiento-al-alcance-o-ignorancia-elegida",
+    "title": "¿Conocimiento al alcance o ignorancia elegida?",
+    "author": "Lidia Virginia Ortega Tablas",
+    "authorSlug": "lidia-virginia-ortega-tablas",
+    "date": "2026-02-18",
+    "year": 2026,
+    "path": "content/2026/2026-02-18-conocimiento-al-alcance-o-ignorancia-elegida.md",
+    "excerpt": "Hoy vivimos en la era del conocimiento, una época en la que la información está literalmente al alcance de todos. Basta con ver un vídeo, hacer una rápida búsqueda en internet o…"
+  },
+  {
+    "slug": "2026-02-17-guatemala-la-sociedad-de-las-moscas",
+    "title": "Guatemala, la sociedad de las moscas",
+    "author": "Kevin Segura Carrillo",
+    "authorSlug": "kevin-segura-carrillo",
+    "date": "2026-02-17",
+    "year": 2026,
+    "path": "content/2026/2026-02-17-guatemala-la-sociedad-de-las-moscas.md",
+    "excerpt": "¿Dejaremos que las moscas caminen libremente en nuestra cotidianidad? La basura que debería estar en una bolsa, en una línea de reciclaje y luego en un proceso de reducción que…"
+  },
+  {
+    "slug": "2026-02-13-las-mujeres-que-el-sistema-no-quiere-ver",
+    "title": "Las mujeres que el sistema no quiere ver",
+    "author": "Ingrid Julissa De La Paz Olivarez",
+    "authorSlug": "ingrid-julissa-de-la-paz-olivarez",
+    "date": "2026-02-13",
+    "year": 2026,
+    "path": "content/2026/2026-02-13-las-mujeres-que-el-sistema-no-quiere-ver.md",
+    "excerpt": "Ser mujer en Guatemala ya implica un desafío; ser una mujer con discapacidad es una lucha por el derecho a existir con dignidad. En cada comunidad, en cada calle sin rampas, en…"
+  },
+  {
+    "slug": "2026-02-12-la-exclusion-de-las-ciencias-afines-un-mensaje-de-superioridad-oculto",
+    "title": "La exclusión de las ciencias afines: un mensaje de superioridad oculto",
+    "author": "Jennifer Paniagua",
+    "authorSlug": "jennifer-paniagua",
+    "date": "2026-02-12",
+    "year": 2026,
+    "path": "content/2026/2026-02-12-la-exclusion-de-las-ciencias-afines-un-mensaje-de-superioridad-oculto.md",
+    "excerpt": "Hay decisiones que no se explican sobre la técnica o el conocimiento puro, sino desde el poder. La exclusión de las ciencias afines del proceso de elección de representantes del…"
+  },
+  {
+    "slug": "2026-02-11-la-reivindicacion-del-error-es-nuestra-ultima-frontera-humana",
+    "title": "¿La reivindicación del error es nuestra última frontera humana?",
+    "author": "Cynthia Mileydi Cholotío Hernández",
+    "authorSlug": "cynthia-mileydi-cholotio-hernandez",
+    "date": "2026-02-11",
+    "year": 2026,
+    "path": "content/2026/2026-02-11-la-reivindicacion-del-error-es-nuestra-ultima-frontera-humana.md",
+    "excerpt": "Quizá alguna vez escuchaste la frase «errar es de humanos». Es un refrán que hemos repetido por generaciones, casi como un consuelo ante el fallo, pero hoy adquiere una dimensión…"
+  },
+  {
+    "slug": "2026-02-10-la-eleccion-que-nadie-ve-pero-afecta-todo-lo-que-haces",
+    "title": "La elección que nadie ve, pero afecta todo lo que haces",
+    "author": "Luis Carlos Chávez Morales",
+    "authorSlug": "luis-carlos-chavez-morales",
+    "date": "2026-02-10",
+    "year": 2026,
+    "path": "content/2026/2026-02-10-la-eleccion-que-nadie-ve-pero-afecta-todo-lo-que-haces.md",
+    "excerpt": "Antes de entrar en materia, es importante recordar quiénes integran el sistema de elección de magistrados para la Corte de Constitucionalidad. La designación se distribuye entre…"
+  },
+  {
+    "slug": "2026-02-06-cuando-respetar-las-reglas-ya-no-alcanza",
+    "title": "Cuando respetar las reglas ya no alcanza",
+    "author": "Meybel Amaya",
+    "authorSlug": "meybel-amaya",
+    "date": "2026-02-06",
+    "year": 2026,
+    "path": "content/2026/2026-02-06-cuando-respetar-las-reglas-ya-no-alcanza.md",
+    "excerpt": "Durante años, la ciudadanía ha apostado por el cambio dentro de los márgenes de la institucionalidad. Ha votado, ha protestado sin violencia, ha confiado en que el respeto a las…"
+  },
+  {
+    "slug": "2026-02-05-carceles-como-la-expresion-pura-del-estado",
+    "title": "Cárceles como la expresión pura del Estado",
+    "author": "Franco Farías",
+    "authorSlug": "franco-farias",
+    "date": "2026-02-05",
+    "year": 2026,
+    "path": "content/2026/2026-02-05-carceles-como-la-expresion-pura-del-estado.md",
+    "excerpt": "Franco L. Farías Los lamentables eventos criminales que azotaron al país este domingo 18 de enero, nos exigen una seria reflexión sobre el sistema. ¿Por qué ocurre lo que ocurre y…"
+  },
+  {
+    "slug": "2026-02-04-un-orden-internacional-en-transicion",
+    "title": "Un orden internacional en transición",
+    "author": "Bryan Daniel Chacón Aldana",
+    "authorSlug": "bryan-daniel-chacon-aldana",
+    "date": "2026-02-04",
+    "year": 2026,
+    "path": "content/2026/2026-02-04-un-orden-internacional-en-transicion.md",
+    "excerpt": "El inicio de 2026 confirma una transformación estructural del sistema internacional. Lejos de consolidarse el orden liberal posterior a la Guerra Fría, el escenario global…"
+  },
+  {
+    "slug": "2026-02-03-tantos-pensamientos-al-aire-tanto-que-decir-y-poco-lo-que-se-llega-a-compartir",
+    "title": "Tantos pensamientos al aire, tanto que decir y poco lo que se llega a compartir",
+    "author": "Lidia Virginia Ortega Tablas",
+    "authorSlug": "lidia-virginia-ortega-tablas",
+    "date": "2026-02-03",
+    "year": 2026,
+    "path": "content/2026/2026-02-03-tantos-pensamientos-al-aire-tanto-que-decir-y-poco-lo-que-se-llega-a-compartir.md",
+    "excerpt": "Vivimos rodeados de pensamientos, con mucho por decir y, sin embargo, compartiendo solo una pequeña parte de lo que pasa por nuestra mente. La expresión “cada mente es un…"
+  },
+  {
+    "slug": "2026-01-29-nosotros-los-olvidados",
+    "title": "Nosotros los olvidados",
+    "author": "José Alexander Velásquez",
+    "authorSlug": "jose-alexander-velasquez",
+    "date": "2026-01-29",
+    "year": 2026,
+    "path": "content/2026/2026-01-29-nosotros-los-olvidados.md",
+    "excerpt": "Cada año que inicia en el calendario no indica solamente un nuevo ciclo escolar; también revela una verdad incómoda para muchos de los jóvenes en Guatemala: la juventud no solo es…"
+  },
+  {
+    "slug": "2026-01-28-nostalgia-por-el-pasado",
+    "title": "Nostalgia por el pasado",
+    "author": "Carolina Hernández Melendrez",
+    "authorSlug": "carolina-hernandez-melendrez",
+    "date": "2026-01-28",
+    "year": 2026,
+    "path": "content/2026/2026-01-28-nostalgia-por-el-pasado.md",
+    "excerpt": "La política es un pilar fundamental en la sociedad y aunque muchas veces se perciba como lejana, es importante reconocer que también opera en el plano cultural, simbólico y…"
+  },
+  {
+    "slug": "2026-01-27-necesitamos-en-guatemala-un-bukele",
+    "title": "¿Necesitamos en Guatemala un Bukele?",
+    "author": "Jennifer Alejandra de la Cruz Lemus",
+    "authorSlug": "jennifer-alejandra-de-la-cruz-lemus",
+    "date": "2026-01-27",
+    "year": 2026,
+    "path": "content/2026/2026-01-27-necesitamos-en-guatemala-un-bukele.md",
+    "excerpt": "En Guatemala hemos estado enfrentando una crisis de seguridad, resultado de los últimos motines que se llevaron a cabo recientemente en las cárceles de Guatemala. Esto ha…"
+  },
+  {
+    "slug": "2026-01-22-nadar-contra-corriente",
+    "title": "Nadar contra corriente",
+    "author": "Jose Mariano Gué",
+    "authorSlug": "jose-mariano-gue",
+    "date": "2026-01-22",
+    "year": 2026,
+    "path": "content/2026/2026-01-22-nadar-contra-corriente.md",
+    "excerpt": "¿Qué clase de abogado quiero ser? Una pregunta que normalmente ronda por la cabeza de cualquier estudiante. Muchos ni siquiera nos hemos graduado, pero no somos ajenos a la…"
+  },
+  {
+    "slug": "2026-01-21-entre-recursos-y-silencio-el-caso-de-melissa-palacios",
+    "title": "Entre recursos y silencio: el caso de Melissa Palacios",
+    "author": "Jennifer Paniagua",
+    "authorSlug": "jennifer-paniagua",
+    "date": "2026-01-21",
+    "year": 2026,
+    "path": "content/2026/2026-01-21-entre-recursos-y-silencio-el-caso-de-melissa-palacios.md",
+    "excerpt": "“Cuando la justicia se posterga deja de ser justa” Anónimo Melissa Palacios murió el 5 de julio de 2021, un día después de su desaparición. No es una fecha simbólica ni una…"
+  },
+  {
+    "slug": "2026-01-20-y-si-esta-vez-si-nos-toca-involucrarnos",
+    "title": "¿Y si esta vez sí nos toca involucrarnos?",
+    "author": "Ana Gabriela Solorzano Sanchez",
+    "authorSlug": "ana-gabriela-solorzano-sanchez",
+    "date": "2026-01-20",
+    "year": 2026,
+    "path": "content/2026/2026-01-20-y-si-esta-vez-si-nos-toca-involucrarnos.md",
+    "excerpt": "Enero siempre llega con la promesa de empezar de nuevo. Nuevas metas, nuevas rutinas, nuevas esperanzas. Sin embargo, en Guatemala, este enero no solo marca el inicio del año: nos…"
+  },
+  {
+    "slug": "2026-01-15-soberania-y-responsabilidad-entre-la-norma-y-el-poder",
+    "title": "Soberanía y Responsabilidad: entre la norma y el poder",
+    "author": "Lisa Marie Villela Egiizabal",
+    "authorSlug": "lisa-marie-villela-egiizabal",
+    "date": "2026-01-15",
+    "year": 2026,
+    "path": "content/2026/2026-01-15-soberania-y-responsabilidad-entre-la-norma-y-el-poder.md",
+    "excerpt": "La intervención militar de Estados Unidos en Venezuela el pasado 3 de enero, que culminó con la captura y extracción de Nicolás Maduro, ha reavivado una de las preguntas más…"
+  },
+  {
+    "slug": "2026-01-14-el-hombre-masa-o-el-prometeo-de-la-destruccion-social-parte-i",
+    "title": "El hombre-masa o el Prometeo de la destrucción social (parte I)",
+    "author": "Leonardo Juárez Morales",
+    "authorSlug": "leonardo-juarez-morales",
+    "date": "2026-01-14",
+    "year": 2026,
+    "path": "content/2026/2026-01-14-el-hombre-masa-o-el-prometeo-de-la-destruccion-social-parte-i.md",
+    "excerpt": "«La masa quiere siempre ser dominada por un poder ilimitado. Ávida de autoridad, tiene, según las palabras de Gustavo Le Bon, una inagotable sed de sometimiento». Sigmund Freud La…"
+  },
+  {
+    "slug": "2026-01-13-venezuela-en-la-encrucijada-la-captura-de-nicolas-maduro-y-un-giro-historico",
+    "title": "Venezuela en la encrucijada: la captura de Nicolás Maduro y un giro histórico",
+    "author": "Víctor Enrique Negreros Pacaya",
+    "authorSlug": "victor-enrique-negreros-pacaya",
+    "date": "2026-01-13",
+    "year": 2026,
+    "path": "content/2026/2026-01-13-venezuela-en-la-encrucijada-la-captura-de-nicolas-maduro-y-un-giro-historico.md",
+    "excerpt": "La captura de Nicolás Maduro constituye uno de los acontecimientos más impactantes y simbólicos de la política venezolana en este siglo. No se trata únicamente de la detención de…"
+  },
+  {
     "slug": "2026-01-09-sin-las-guajeras-la-sostenibilidad-es-un-mito",
     "title": "Sin las guajeras, la sostenibilidad es un mito",
     "author": "María José Cordero Castillo",
@@ -8,6 +788,46 @@
     "year": 2026,
     "path": "content/2026/2026-01-09-sin-las-guajeras-la-sostenibilidad-es-un-mito.md",
     "excerpt": "Dentro de nuestra corrida cotidianidad, pocas veces nos detenemos a pensar quién recibe o procesa nuestras 7,999 toneladas de basura diaria. Aún menos nos cuestionamos cómo esta…"
+  },
+  {
+    "slug": "2026-01-08-el-tribunal-supremo-electoral-nos-necesita",
+    "title": "El Tribunal Supremo Electoral nos necesita",
+    "author": "Pablo Giovanni Mendoza Monzón",
+    "authorSlug": "pablo-giovanni-mendoza-monzon",
+    "date": "2026-01-08",
+    "year": 2026,
+    "path": "content/2026/2026-01-08-el-tribunal-supremo-electoral-nos-necesita.md",
+    "excerpt": "El sistema electoral de un país es más que un conjunto de instituciones, reglas y principios; se trata de un elemento clave en la satisfacción del bienestar de nuestras…"
+  },
+  {
+    "slug": "2026-01-07-empezar-sin-tener-todo-resuelto",
+    "title": "Empezar sin tener todo resuelto",
+    "author": "Ana Gabriela Solorzano Sanchez",
+    "authorSlug": "ana-gabriela-solorzano-sanchez",
+    "date": "2026-01-07",
+    "year": 2026,
+    "path": "content/2026/2026-01-07-empezar-sin-tener-todo-resuelto.md",
+    "excerpt": "El inicio de un nuevo año suele estar acompañado de expectativas: nuevas metas, planes ambiciosos y la sensación de que “ahora sí” todo debería tener claridad. Para muchas…"
+  },
+  {
+    "slug": "2026-01-06-el-congreso-estara-bajo-la-lupa-en-2026",
+    "title": "El Congreso estará bajo la lupa en 2026",
+    "author": "Esteban Conde",
+    "authorSlug": "esteban-conde",
+    "date": "2026-01-06",
+    "year": 2026,
+    "path": "content/2026/2026-01-06-el-congreso-estara-bajo-la-lupa-en-2026.md",
+    "excerpt": "El país se enfrenta a una gran cantidad de decisiones políticas que impactarán la vida de todos los guatemaltecos. En el centro de la mayoría de estas decisiones, se encuentra el…"
+  },
+  {
+    "slug": "2026-01-01-diciembre-no-trae-juguetes-trae-1-911-ninas-que-nunca-debieron-dejar-de-serlo",
+    "title": "Diciembre no trae juguetes, trae 1,911 niñas que nunca debieron dejar de serlo",
+    "author": "Ingrid Julissa De La Paz Olivarez",
+    "authorSlug": "ingrid-julissa-de-la-paz-olivarez",
+    "date": "2026-01-01",
+    "year": 2026,
+    "path": "content/2026/2026-01-01-diciembre-no-trae-juguetes-trae-1-911-ninas-que-nunca-debieron-dejar-de-serlo.md",
+    "excerpt": "En diciembre, a los niños se les pregunta qué quieren de regalo: muñecas, pelotas, bicicletas, ropa nueva…, pero a cientos de niñas de 10, 11, 12, o 13 años en Guatemala, la vida…"
   },
   {
     "slug": "2025-12-30-gabriel-paniagua-el-resurgimiento-de-un-deportista",
@@ -1252,7 +2072,7 @@
   {
     "slug": "2024-12-12-precios-del-combustible-en-caida-el-impacto-de-trump-en-la-economia-energetica",
     "title": "Precios del Combustible en Caída: El Impacto de Trump en la Economía Energética",
-    "author": "Victor Enrique Negreros Pacaya",
+    "author": "Víctor Enrique Negreros Pacaya",
     "authorSlug": "victor-enrique-negreros-pacaya",
     "date": "2024-12-12",
     "year": 2024,
@@ -1302,7 +2122,7 @@
   {
     "slug": "2024-11-19-el-regreso-de-trump-el-fin-del-sueno-guatemalteco-o-el-inicio-de-una-nueva-era",
     "title": "El regreso de Trump: ¿El fin del sueño guatemalteco o el inicio de una nueva era?",
-    "author": "Victor Enrique Negreros Pacaya",
+    "author": "Víctor Enrique Negreros Pacaya",
     "authorSlug": "victor-enrique-negreros-pacaya",
     "date": "2024-11-19",
     "year": 2024,
@@ -1382,7 +2202,7 @@
   {
     "slug": "2024-10-15-una-nueva-corte-es-sinonimo-de-un-nuevo-reto-para-la-justicia-en-guatemala",
     "title": "Una nueva Corte es sinónimo de un nuevo reto para la Justicia en Guatemala",
-    "author": "Victor Enrique Negreros Pacaya",
+    "author": "Víctor Enrique Negreros Pacaya",
     "authorSlug": "victor-enrique-negreros-pacaya",
     "date": "2024-10-15",
     "year": 2024,

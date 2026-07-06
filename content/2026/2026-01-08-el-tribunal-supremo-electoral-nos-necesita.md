@@ -1,0 +1,17 @@
+---
+title: "El Tribunal Supremo Electoral nos necesita"
+author: "Pablo Giovanni Mendoza Monzón"
+date: 2026-01-08
+---
+
+El sistema electoral de un país es más que un conjunto de instituciones, reglas y principios; se trata de un elemento clave en la satisfacción del bienestar de nuestras comunidades. Empieza por la forma en la que entendemos la participación cívico-política y puede llegar a afectar, incluso, la forma en la que ejercemos derechos como la libertad de expresión para posicionarnos ante las decisiones públicas. Por eso, la calidad de las autoridades electorales no es un detalle secundario, sino una condición básica para la vigencia democrática.
+
+En los últimos seis años, el Tribunal Supremo Electoral (TSE) excluyó al menos a cuatro candidatos del proceso electoral, posicionó las irregularidades que se producen en los partidos políticos y en su momento, desencadenó el temor a que no se respetara la voluntad popular. Con cuatro magistrados titulares suspendidos del cargo por más de seis meses, sumado a los escándalos por títulos falsos en las magistraturas, al menos se ha sostenido la discusión sobre la calidad de las máximas autoridades en el país.
+
+La calidad de los y las magistradas del TSE importa. De estos perfiles depende la confianza en la institución electoral y la legitimidad de los resultados electorales. Latinobarómetro indica que el 40.4% de los guatemaltecos encuestados en 2024 manifestó no tener confianza en la institución electoral, y solo un 16.7% consideró que las elecciones eran transparentes en Guatemala. Es evidente que cuando la autoridad electoral es débil o cuestionada, el sistema democrático no produce certeza, sino desconfianza.
+
+En América Latina, la comparación entre Honduras y Chile, ambos con elecciones generales en 2025, confirma esta lógica. En Chile un 72.4% percibió las elecciones como transparentes y solo el 10.6% expresó desconfianza en la autoridad electoral. En Honduras, en contraste, el 54.6% no confía en su institución electoral y el 87.4% consideró las elecciones como fraudulentas. Mientras que en Chile el resultado fue incuestionable horas después de la segunda vuelta, en Honduras persisten disputas más de un mes después, e incluso se intentó declarar la nulidad del proceso.
+
+En este sentido, es necesario vigilar a la comisión de postulación responsable del TSE. En esta semana, el Colegio de Abogados y Notarios eligió a sus representantes para dicha comisión. Aunque muchas de las personas jóvenes aún no participamos de estos espacios gremiales, sí podemos cuestionar las decisiones de éste y los demás actores que integrarán la comisión: el Rector y el Decano de la Facultad de Ciencias Jurídicas y Sociales de la Universidad de San Carlos de Guatemala, el representante de los rectores de universidades privadas, y los representantes de la carrera de Derecho de las universidades privadas.
+
+Iniciemos bien el año. En 2026 aún quedan, al menos, dos comisiones clave que fiscalizar: la encargada de las magistraturas de la Corte de Constitucionalidad y la de Fiscal General del Ministerio Público. Las personas jóvenes, las mujeres, los pueblos indígenas, las personas con discapacidad y la comunidad LGBTIQ+ tenemos una oportunidad concreta en estos procesos. Informarnos, compartir información y cuestionar las decisiones de las comisiones, y posteriormente del Congreso, no solo amplía las miradas, sino que fortalece la salud democrática del país. La vigilancia ciudadana no es opcional: hoy, más que nunca, el TSE nos necesita.

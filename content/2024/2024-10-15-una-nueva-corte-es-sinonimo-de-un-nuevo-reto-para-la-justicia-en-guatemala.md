@@ -1,6 +1,6 @@
 ---
 title: "Una nueva Corte es sinónimo de un nuevo reto para la Justicia en Guatemala"
-author: "Victor Enrique Negreros Pacaya"
+author: "Víctor Enrique Negreros Pacaya"
 date: 2024-10-15
 ---
 

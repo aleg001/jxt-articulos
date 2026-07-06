@@ -1,0 +1,23 @@
+---
+title: "Dejale la política a los políticos"
+author: "Cynthia Mileydi Cholotío Hernández"
+date: 2026-05-14
+---
+
+Es una frase que he escuchado un par de veces; a veces en tono de broma, otras con molestia y muchas como una forma de cortar la conversación. Y seamos honestos, en Guatemala cuando alguien dice “hablemos de política” medio grupo se va, otro se enoja y el resto dice “qué hueva”. La política tiene mala fama: la asociamos con corrupción, pactos raros, promesas incumplidas y peleas eternas en redes sociales. Entonces parece más fácil no meterse.
+
+Pero aunque no nos guste la política sí se mete con nosotros ya que en realidad no es algo lejano que solo pase en el Congreso o en Casa Presidencial. Se siente cuando sube el precio de la canasta básica, cuando no hay medicinas en el IGSS, cuando las carreteras están destruidas o cuando la incertidumbre económica afecta el empleo. Se siente cuando hay tensiones entre instituciones del Estado, cuando se cuestionan decisiones judiciales o cuando el debate público se polariza. Todo eso no es un espectáculo externo, es el proceso por el cual se define el rumbo del país.
+
+La coyuntura reciente lo ha dejado claro ya que hemos vivido procesos electorales intensos, discusiones sobre la independencia institucional, protestas ciudadanas, bloqueos y momentos de alta tensión política; y esto no es simple “drama” porque cuando hay crisis institucional se afecta la confianza, la inversión y la estabilidad. Cuando se debilita la transparencia, se debilita la democracia y cuando se toman decisiones legislativas, estas impactan directamente en educación, salud, presupuesto y oportunidades para los jóvenes.
+
+Decir “todos son iguales” puede sonar realista e incluso maduro, pero muchas veces es una forma de resignación y la resignación es peligrosa, porque conduce a la indiferencia. Cuando quienes podrían cuestionar, exigir y proponer se apartan los espacios de poder no quedan vacíos; simplemente los ocupan otros. No participar no corrige el sistema; solo lo deja intacto.
+
+Interesarse en política no significa volverse fanático de un partido ni defender ciegamente a un funcionario, tampoco significa vivir peleando en redes sociales sino que significa entender cómo se distribuye el poder y cómo se administran los recursos públicos; significa saber qué funciones tiene cada institución del Estado y cómo esas decisiones terminan afectando nuestra vida cotidiana. Muchas veces criticamos o apoyamos cosas sin comprender realmente cómo funcionan.
+
+Como ciudadanos podemos empezar de manera sencilla pero consciente, informándonos mejor sin quedarnos solo con titulares, las noticias de Xela News o con lo que vimos en un TikTok. Es muy importante contrarrestar esto con fuentes fidedignas, leyendo diferentes perspectivas y formando criterio propio; entendiendo el funcionamiento básico del Estado para no repetir discursos vacíos, aprendiendo a debatir con argumentos y no con ataques personales; Participando en espacios universitarios, comunitarios o municipales, que son los más cercanos a nuestra realidad diaria.
+
+La política local por ejemplo, incide directamente en temas tan concretos como el estado de las calles, la gestión del agua, la recolección de basura o los proyectos comunitarios. No todo se decide en las grandes instituciones nacionales. Muchas decisiones que afectan nuestra calidad de vida se toman en el ámbito municipal e ignorarlas no las hace desaparecer. Nuestra generación enfrenta desafíos complejos: desigualdad, falta de empleo formal, migración, crisis ambiental y desconfianza institucional. Esperar a “tener estabilidad” para involucrarnos es una contradicción, porque esa estabilidad depende precisamente de las decisiones públicas que se tomen ahora. Si no participamos, otros decidirán por nosotros y después no bastará con quejarnos.
+
+La democracia no se sostiene sola, se sostiene cuando la ciudadanía se informa, cuestiona y participa. No se trata de convertirnos en expertos de la noche a la mañana ni en activistas radicales, se trata de asumir que el país no es algo ajeno sino que es nuestro espacio común; porque si queremos mejores oportunidades, instituciones más sólidas y un futuro con mayor estabilidad, no podemos mantenernos al margen.
+
+Dejarles la política a los políticos puede sonar cómodo, pero el futuro no se construye desde la comodidad ni desde la indiferencia; se construye cuando decidimos que sí nos importa lo que pasa, que sí queremos entender y que sí estamos dispuestos a participar. Porque al final, aunque intentemos ignorarla, la política nunca nos ignora a nosotros.

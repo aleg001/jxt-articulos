@@ -1,0 +1,19 @@
+---
+title: "Soberanía y Responsabilidad: entre la norma y el poder"
+author: "Lisa Marie Villela Egiizabal"
+date: 2026-01-15
+---
+
+La intervención militar de Estados Unidos en Venezuela el pasado 3 de enero, que culminó con la captura y extracción de Nicolás Maduro, ha reavivado una de las preguntas más fundamentales de la política internacional: ¿es la soberanía un escudo absoluto frente a la interferencia externa o conlleva, inevitablemente, un grado de responsabilidad?
+
+Las acciones de Washington fueron denunciadas por varios Estados como un acto de agresión a la soberanía venezolana y el derecho internacional; sin embargo, más allá de la condena formal, la intervención en Venezuela expone un dilema que el sistema internacional no ha podido enfrentar: ¿Cuál es el rol de la comunidad internacional cuando las acciones de un Estado derivan en represión sistemática, erosión democrática y sufrimiento masivo? ¿Tiene sentido seguir defendiendo una soberanía absoluta abstracta cuando esta se convierte en detrimento para la población?
+
+A inicios de la década de los 2000, surgió un intento de responder a este dilema con el desarrollo de la «Responsabilidad de Proteger (R2P)». Esta doctrina emergió a partir de los fracasos internacionales en Ruanda, los Balcanes y Kosovo, que ocasionaron atrocidades masivas. En 2001, un informe de la Comisión Internacional sobre Intervención y Soberanía Estatal, replanteó el concepto tradicional de soberanía: esta no debe entenderse como carte blanche para que un Estado haga lo que quiera dentro de su territorio. Los Estados tienen una responsabilidad hacia su población, y cuando fracasan, la comunidad internacional tiene la responsabilidad de actuar.
+
+No obstante, la R2P nunca ha sido aplicada de forma coherente. Se invocó en la intervención en Libia en 2011, autorizada por el Consejo de Seguridad de las Naciones Unidas. El resultado fue el colapso del Estado e inestabilidad prolongada, lo que evidenció las limitantes de la doctrina y la ausencia de un marco internacional aplicable cuando la soberanía y la responsabilidad entran en conflicto.
+
+La intervención en Venezuela difiere de este marco normativo, no fue de carácter humanitario ni se presentó como tal. Estados Unidos no actuó bajo el lenguaje de la protección de civiles o la obligación moral, sino mediante una intervención con objetivos estratégicos explícitos. Aún así, ha sido la única acción que ha ejercido presión inmediata y tangible sobre el régimen. Hasta la fecha se han liberado 41 presos políticos, un resultado que años de sanciones, elecciones con observadores internacionales y condenas multilaterales enérgicas no lograron alcanzar.
+
+El objetivo de este artículo no es legitimar el uso de la fuerza, si no cuestionar la efectividad del principio de no intervención para proteger a la población venezolana. A falta de mecanismos multilaterales efectivos, el poder coercitivo ha demostrado ser más eficaz para forzar concesiones de un régimen autoritario. Para gobiernos como los de Cuba y Nicaragua, la destitución de Maduro envía un mensaje: la intervención unilateral es una opción cuando una potencia hegemónica como Estados Unidos considera que un régimen es ilegítimo o una amenaza estratégica.
+
+La Responsabilidad de Proteger fue concebida para evitar que las poblaciones quedaran abandonadas ante violaciones de derechos humanos; aún así, sigue siendo más una aspiración filosófica que una doctrina operativa. La comunidad internacional puede condenar abusos, aprobar resoluciones y apelar al derecho internacional, pero carece de medios efectivos para hacerlos cumplir. El propósito de un sistema no se define por sus declaraciones, sino por sus acciones. Venezuela es un recordatorio de que las instituciones liberales no han podido balancear la soberanía y la responsabilidad, y que el orden internacional, esencialmente anárquico, se sostiene en el poder y no en las normas.
